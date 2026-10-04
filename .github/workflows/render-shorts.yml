@@ -1,0 +1,55 @@
+name: Render approved 9:16 shorts
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: preparing-episode-shorts
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Install pinned render dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          python -m pip install -r requirements.txt
+          sudo mkdir -p /data/sr_models
+          sudo chown -R "$USER" /data
+          cp inputs/FSRCNN_x4.pb /data/sr_models/FSRCNN_x4.pb
+      - name: Restore supplied artwork and final narration
+        run: |
+          unzip -q inputs/stickman_contact_sheets.zip
+          python extract_panels.py .
+          ffmpeg -y -loglevel error -i inputs/voiceover.flac -ar 44100 -ac 1 voiceover.wav
+      - name: Prepare synchronized source and artwork
+        run: |
+          python prepare_art.py
+          python build_plan.py
+      - name: Build the three vertical shorts
+        run: |
+          python shorts/build_shorts.py
+      - name: Render the complete portrait masters
+        run: |
+          python shorts/render_shorts.py
+      - name: Technical gates and actual-frame review package
+        run: |
+          python shorts/package_shorts.py
+      - name: Preserve reviewed-build candidates
+        uses: actions/upload-artifact@v4
+        with:
+          name: shorts-master-${{ github.run_id }}
+          retention-days: 30
+          compression-level: 0
+          path: |
+            shorts/output/deliver/**
+            shorts/output/shorts-manifest.json
+            shorts/output/release-notes.md
+            shorts/output/qa/*-montage.png
+            shorts/output/shorts-source-v1.zip
