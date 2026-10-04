@@ -1,0 +1,8 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+*.log
+output/
+final*.mp4
+starting-production-checkpoint*.zip
