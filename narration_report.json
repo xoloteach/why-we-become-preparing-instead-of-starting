@@ -1,0 +1,12 @@
+{
+  "model": "flux-cole-en",
+  "speed": 0.95,
+  "expressivity": -1,
+  "alignment_model": "nova-3",
+  "script_words": 1715,
+  "recognized_words": 1705,
+  "duration": 591.1365759637188,
+  "audio_timing_final": true,
+  "stt_confidence": 1.0,
+  "script_sha256": "1cc9c743b63cfd33cde7cb4c8c31de0a6d476083c4e5217eb716e79922245008"
+}

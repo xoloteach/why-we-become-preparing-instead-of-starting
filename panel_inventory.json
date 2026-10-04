@@ -1,0 +1,2076 @@
+{
+  "title": "Why You Keep Preparing Instead of Starting.",
+  "timing_status": "Aligned against final processed narration; STT differences reviewed",
+  "sheets": [
+    {
+      "file": "Sheet_01_The_Things_You_Want_To_Start.png",
+      "sha256": "0f29434c69fe24c74ec916c76529cad523a3e7a641ae37aa46a6c9f9648bca4c",
+      "size": [
+        1672,
+        941
+      ],
+      "x_boundaries": [
+        0,
+        581,
+        1096,
+        1670
+      ],
+      "y_boundaries": [
+        0,
+        310,
+        616,
+        940
+      ]
+    },
+    {
+      "file": "Sheet_02_The_Productivity_Illusion.png",
+      "sha256": "fffc773a06c758a032448367e9fbaa01019937711157c327f06eebd1fa3687b8",
+      "size": [
+        1672,
+        941
+      ],
+      "x_boundaries": [
+        0,
+        557,
+        1114,
+        1670
+      ],
+      "y_boundaries": [
+        0,
+        301,
+        596,
+        940
+      ]
+    },
+    {
+      "file": "Sheet_03_Everything_Is_Ready_Except_You.png",
+      "sha256": "5a1dd0de376791dc4cf0f19d9c3a46bc392593751a14e5c3994e1a8e8d9f38c2",
+      "size": [
+        1672,
+        941
+      ],
+      "x_boundaries": [
+        0,
+        581,
+        1096,
+        1670
+      ],
+      "y_boundaries": [
+        0,
+        311,
+        618,
+        940
+      ]
+    },
+    {
+      "file": "Sheet_04_The_Research_Rabbit_Hole.png",
+      "sha256": "d8ddff753c30c7d174a9ca4795f1cb4b3932654807889fe1783e11e5b42bfb29",
+      "size": [
+        1672,
+        941
+      ],
+      "x_boundaries": [
+        0,
+        570,
+        1193,
+        1670
+      ],
+      "y_boundaries": [
+        0,
+        259,
+        493,
+        696,
+        940
+      ]
+    },
+    {
+      "file": "Sheet_05_Why_Preparation_Feels_Safe.png",
+      "sha256": "ef9eaf06369c448f9f15674eb86337166825468a40298d668c54c27dc51c8e97",
+      "size": [
+        1672,
+        941
+      ],
+      "x_boundaries": [
+        0,
+        582,
+        1092,
+        1670
+      ],
+      "y_boundaries": [
+        0,
+        311,
+        629,
+        940
+      ]
+    },
+    {
+      "file": "Sheet_06_One_More_Thing_Before_Starting.png",
+      "sha256": "61c49136e8fca8bb4a8d4daf4dcdcb1c10e80b025ce02fc481b194b2e0fc0e9d",
+      "size": [
+        1672,
+        941
+      ],
+      "x_boundaries": [
+        0,
+        557,
+        1114,
+        1670
+      ],
+      "y_boundaries": [
+        0,
+        314,
+        625,
+        939
+      ]
+    },
+    {
+      "file": "Sheet_07_Protecting_Potential_Avoiding_Beginnership.png",
+      "sha256": "3d9bc6be8b96843235ecd30ba7225734985aa6cc9aabbc5fe08c5dee97033d8a",
+      "size": [
+        1672,
+        941
+      ],
+      "x_boundaries": [
+        0,
+        583,
+        1092,
+        1670
+      ],
+      "y_boundaries": [
+        0,
+        311,
+        618,
+        939
+      ]
+    },
+    {
+      "file": "Sheet_08_Reality_Gives_You_Feedback.png",
+      "sha256": "dd2e142349fd67a3a534b65befce91c1c1ae7523bb158d98bf077806f8aea39b",
+      "size": [
+        1672,
+        941
+      ],
+      "x_boundaries": [
+        0,
+        557,
+        1114,
+        1670
+      ],
+      "y_boundaries": [
+        0,
+        313,
+        626,
+        940
+      ]
+    },
+    {
+      "file": "Sheet_09_Prepare_Act_Learn_Repeat.png",
+      "sha256": "4d20f353cbc9d76acb0448d876b9ae470dd387ec28f7473ef75c11b7c26cb77d",
+      "size": [
+        1672,
+        941
+      ],
+      "x_boundaries": [
+        0,
+        558,
+        1114,
+        1670
+      ],
+      "y_boundaries": [
+        0,
+        312,
+        625,
+        940
+      ]
+    },
+    {
+      "file": "Sheet_10_Stop_Hiding_Make_It_Real.png",
+      "sha256": "159d6f3b31feb868639f57d717dd0f12a3a1775c59c5b1bcc3a45ce9d39ea078",
+      "size": [
+        1672,
+        941
+      ],
+      "x_boundaries": [
+        0,
+        564,
+        1108,
+        1670
+      ],
+      "y_boundaries": [
+        0,
+        312,
+        618,
+        940
+      ]
+    }
+  ],
+  "panels": [
+    {
+      "id": "S01-R1-C1",
+      "sheet": "Sheet_01_The_Things_You_Want_To_Start.png",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        4,
+        4,
+        577,
+        306
+      ],
+      "native_size": [
+        573,
+        302
+      ],
+      "ink_fraction": 0.208291,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S01-R1-C1.png"
+    },
+    {
+      "id": "S01-R1-C2",
+      "sheet": "Sheet_01_The_Things_You_Want_To_Start.png",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        585,
+        4,
+        1092,
+        306
+      ],
+      "native_size": [
+        507,
+        302
+      ],
+      "ink_fraction": 0.124972,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S01-R1-C2.png"
+    },
+    {
+      "id": "S01-R1-C3",
+      "sheet": "Sheet_01_The_Things_You_Want_To_Start.png",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        1100,
+        4,
+        1666,
+        306
+      ],
+      "native_size": [
+        566,
+        302
+      ],
+      "ink_fraction": 0.142016,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S01-R1-C3.png"
+    },
+    {
+      "id": "S01-R2-C1",
+      "sheet": "Sheet_01_The_Things_You_Want_To_Start.png",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        4,
+        314,
+        577,
+        612
+      ],
+      "native_size": [
+        573,
+        298
+      ],
+      "ink_fraction": 0.116753,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S01-R2-C1.png"
+    },
+    {
+      "id": "S01-R2-C2",
+      "sheet": "Sheet_01_The_Things_You_Want_To_Start.png",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        585,
+        314,
+        1092,
+        612
+      ],
+      "native_size": [
+        507,
+        298
+      ],
+      "ink_fraction": 0.112155,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S01-R2-C2.png"
+    },
+    {
+      "id": "S01-R2-C3",
+      "sheet": "Sheet_01_The_Things_You_Want_To_Start.png",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        1100,
+        314,
+        1666,
+        612
+      ],
+      "native_size": [
+        566,
+        298
+      ],
+      "ink_fraction": 0.189461,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S01-R2-C3.png"
+    },
+    {
+      "id": "S01-R3-C1",
+      "sheet": "Sheet_01_The_Things_You_Want_To_Start.png",
+      "row": 3,
+      "column": 1,
+      "crop_box": [
+        4,
+        620,
+        577,
+        936
+      ],
+      "native_size": [
+        573,
+        316
+      ],
+      "ink_fraction": 0.151595,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S01-R3-C1.png"
+    },
+    {
+      "id": "S01-R3-C2",
+      "sheet": "Sheet_01_The_Things_You_Want_To_Start.png",
+      "row": 3,
+      "column": 2,
+      "crop_box": [
+        585,
+        620,
+        1092,
+        936
+      ],
+      "native_size": [
+        507,
+        316
+      ],
+      "ink_fraction": 0.197264,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S01-R3-C2.png"
+    },
+    {
+      "id": "S01-R3-C3",
+      "sheet": "Sheet_01_The_Things_You_Want_To_Start.png",
+      "row": 3,
+      "column": 3,
+      "crop_box": [
+        1100,
+        620,
+        1666,
+        936
+      ],
+      "native_size": [
+        566,
+        316
+      ],
+      "ink_fraction": 0.169416,
+      "status": "intentionally_omitted",
+      "reason": "Redundant preparatory motif; selected clearer supplied panels for this script beat",
+      "file": "panels_native/S01-R3-C3.png"
+    },
+    {
+      "id": "S02-R1-C1",
+      "sheet": "Sheet_02_The_Productivity_Illusion.png",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        4,
+        4,
+        553,
+        297
+      ],
+      "native_size": [
+        549,
+        293
+      ],
+      "ink_fraction": 0.208856,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S02-R1-C1.png"
+    },
+    {
+      "id": "S02-R1-C2",
+      "sheet": "Sheet_02_The_Productivity_Illusion.png",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        561,
+        4,
+        1110,
+        297
+      ],
+      "native_size": [
+        549,
+        293
+      ],
+      "ink_fraction": 0.134548,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S02-R1-C2.png"
+    },
+    {
+      "id": "S02-R1-C3",
+      "sheet": "Sheet_02_The_Productivity_Illusion.png",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        1118,
+        4,
+        1666,
+        297
+      ],
+      "native_size": [
+        548,
+        293
+      ],
+      "ink_fraction": 0.0,
+      "status": "omitted_blank",
+      "reason": "No supplied illustration in cell",
+      "file": null
+    },
+    {
+      "id": "S02-R2-C1",
+      "sheet": "Sheet_02_The_Productivity_Illusion.png",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        4,
+        305,
+        553,
+        592
+      ],
+      "native_size": [
+        549,
+        287
+      ],
+      "ink_fraction": 0.149946,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S02-R2-C1.png"
+    },
+    {
+      "id": "S02-R2-C2",
+      "sheet": "Sheet_02_The_Productivity_Illusion.png",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        561,
+        305,
+        1110,
+        592
+      ],
+      "native_size": [
+        549,
+        287
+      ],
+      "ink_fraction": 0.0,
+      "status": "omitted_blank",
+      "reason": "No supplied illustration in cell",
+      "file": null
+    },
+    {
+      "id": "S02-R2-C3",
+      "sheet": "Sheet_02_The_Productivity_Illusion.png",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        1118,
+        305,
+        1666,
+        592
+      ],
+      "native_size": [
+        548,
+        287
+      ],
+      "ink_fraction": 0.263333,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S02-R2-C3.png"
+    },
+    {
+      "id": "S02-R3-C1",
+      "sheet": "Sheet_02_The_Productivity_Illusion.png",
+      "row": 3,
+      "column": 1,
+      "crop_box": [
+        4,
+        600,
+        553,
+        936
+      ],
+      "native_size": [
+        549,
+        336
+      ],
+      "ink_fraction": 0.154719,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S02-R3-C1.png"
+    },
+    {
+      "id": "S02-R3-C2",
+      "sheet": "Sheet_02_The_Productivity_Illusion.png",
+      "row": 3,
+      "column": 2,
+      "crop_box": [
+        561,
+        600,
+        1110,
+        936
+      ],
+      "native_size": [
+        549,
+        336
+      ],
+      "ink_fraction": 0.232755,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S02-R3-C2.png"
+    },
+    {
+      "id": "S02-R3-C3",
+      "sheet": "Sheet_02_The_Productivity_Illusion.png",
+      "row": 3,
+      "column": 3,
+      "crop_box": [
+        1118,
+        600,
+        1666,
+        936
+      ],
+      "native_size": [
+        548,
+        336
+      ],
+      "ink_fraction": 0.195777,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S02-R3-C3.png"
+    },
+    {
+      "id": "S03-R1-C1",
+      "sheet": "Sheet_03_Everything_Is_Ready_Except_You.png",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        4,
+        4,
+        577,
+        307
+      ],
+      "native_size": [
+        573,
+        303
+      ],
+      "ink_fraction": 0.073298,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S03-R1-C1.png"
+    },
+    {
+      "id": "S03-R1-C2",
+      "sheet": "Sheet_03_Everything_Is_Ready_Except_You.png",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        585,
+        4,
+        1092,
+        307
+      ],
+      "native_size": [
+        507,
+        303
+      ],
+      "ink_fraction": 0.169065,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S03-R1-C2.png"
+    },
+    {
+      "id": "S03-R1-C3",
+      "sheet": "Sheet_03_Everything_Is_Ready_Except_You.png",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        1100,
+        4,
+        1666,
+        307
+      ],
+      "native_size": [
+        566,
+        303
+      ],
+      "ink_fraction": 0.173273,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S03-R1-C3.png"
+    },
+    {
+      "id": "S03-R2-C1",
+      "sheet": "Sheet_03_Everything_Is_Ready_Except_You.png",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        4,
+        315,
+        577,
+        614
+      ],
+      "native_size": [
+        573,
+        299
+      ],
+      "ink_fraction": 0.047698,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S03-R2-C1.png"
+    },
+    {
+      "id": "S03-R2-C2",
+      "sheet": "Sheet_03_Everything_Is_Ready_Except_You.png",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        585,
+        315,
+        1092,
+        614
+      ],
+      "native_size": [
+        507,
+        299
+      ],
+      "ink_fraction": 0.113858,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S03-R2-C2.png"
+    },
+    {
+      "id": "S03-R2-C3",
+      "sheet": "Sheet_03_Everything_Is_Ready_Except_You.png",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        1100,
+        315,
+        1666,
+        614
+      ],
+      "native_size": [
+        566,
+        299
+      ],
+      "ink_fraction": 0.217935,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S03-R2-C3.png"
+    },
+    {
+      "id": "S03-R3-C1",
+      "sheet": "Sheet_03_Everything_Is_Ready_Except_You.png",
+      "row": 3,
+      "column": 1,
+      "crop_box": [
+        4,
+        622,
+        577,
+        936
+      ],
+      "native_size": [
+        573,
+        314
+      ],
+      "ink_fraction": 0.126961,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S03-R3-C1.png"
+    },
+    {
+      "id": "S03-R3-C2",
+      "sheet": "Sheet_03_Everything_Is_Ready_Except_You.png",
+      "row": 3,
+      "column": 2,
+      "crop_box": [
+        585,
+        622,
+        1092,
+        936
+      ],
+      "native_size": [
+        507,
+        314
+      ],
+      "ink_fraction": 0.210599,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S03-R3-C2.png"
+    },
+    {
+      "id": "S03-R3-C3",
+      "sheet": "Sheet_03_Everything_Is_Ready_Except_You.png",
+      "row": 3,
+      "column": 3,
+      "crop_box": [
+        1100,
+        622,
+        1666,
+        936
+      ],
+      "native_size": [
+        566,
+        314
+      ],
+      "ink_fraction": 0.151696,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S03-R3-C3.png"
+    },
+    {
+      "id": "S04-R1-C1",
+      "sheet": "Sheet_04_The_Research_Rabbit_Hole.png",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        4,
+        4,
+        566,
+        255
+      ],
+      "native_size": [
+        562,
+        251
+      ],
+      "ink_fraction": 0.160582,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S04-R1-C1.png"
+    },
+    {
+      "id": "S04-R1-C2",
+      "sheet": "Sheet_04_The_Research_Rabbit_Hole.png",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        574,
+        4,
+        1189,
+        255
+      ],
+      "native_size": [
+        615,
+        251
+      ],
+      "ink_fraction": 0.127956,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S04-R1-C2.png"
+    },
+    {
+      "id": "S04-R1-C3",
+      "sheet": "Sheet_04_The_Research_Rabbit_Hole.png",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        1197,
+        4,
+        1666,
+        255
+      ],
+      "native_size": [
+        469,
+        251
+      ],
+      "ink_fraction": 0.0,
+      "status": "omitted_blank",
+      "reason": "No supplied illustration in cell",
+      "file": null
+    },
+    {
+      "id": "S04-R2-C1",
+      "sheet": "Sheet_04_The_Research_Rabbit_Hole.png",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        4,
+        263,
+        566,
+        489
+      ],
+      "native_size": [
+        562,
+        226
+      ],
+      "ink_fraction": 0.176456,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S04-R2-C1.png"
+    },
+    {
+      "id": "S04-R2-C2",
+      "sheet": "Sheet_04_The_Research_Rabbit_Hole.png",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        574,
+        263,
+        1189,
+        489
+      ],
+      "native_size": [
+        615,
+        226
+      ],
+      "ink_fraction": 0.114023,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S04-R2-C2.png"
+    },
+    {
+      "id": "S04-R2-C3",
+      "sheet": "Sheet_04_The_Research_Rabbit_Hole.png",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        1197,
+        263,
+        1666,
+        489
+      ],
+      "native_size": [
+        469,
+        226
+      ],
+      "ink_fraction": 0.0,
+      "status": "omitted_blank",
+      "reason": "No supplied illustration in cell",
+      "file": null
+    },
+    {
+      "id": "S04-R3-C1",
+      "sheet": "Sheet_04_The_Research_Rabbit_Hole.png",
+      "row": 3,
+      "column": 1,
+      "crop_box": [
+        4,
+        497,
+        566,
+        692
+      ],
+      "native_size": [
+        562,
+        195
+      ],
+      "ink_fraction": 0.172698,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S04-R3-C1.png"
+    },
+    {
+      "id": "S04-R3-C2",
+      "sheet": "Sheet_04_The_Research_Rabbit_Hole.png",
+      "row": 3,
+      "column": 2,
+      "crop_box": [
+        574,
+        497,
+        1189,
+        692
+      ],
+      "native_size": [
+        615,
+        195
+      ],
+      "ink_fraction": 0.140213,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S04-R3-C2.png"
+    },
+    {
+      "id": "S04-R3-C3",
+      "sheet": "Sheet_04_The_Research_Rabbit_Hole.png",
+      "row": 3,
+      "column": 3,
+      "crop_box": [
+        1197,
+        497,
+        1666,
+        692
+      ],
+      "native_size": [
+        469,
+        195
+      ],
+      "ink_fraction": 0.0,
+      "status": "omitted_blank",
+      "reason": "No supplied illustration in cell",
+      "file": null
+    },
+    {
+      "id": "S04-R4-C1",
+      "sheet": "Sheet_04_The_Research_Rabbit_Hole.png",
+      "row": 4,
+      "column": 1,
+      "crop_box": [
+        4,
+        700,
+        566,
+        936
+      ],
+      "native_size": [
+        562,
+        236
+      ],
+      "ink_fraction": 0.181578,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S04-R4-C1.png"
+    },
+    {
+      "id": "S04-R4-C2",
+      "sheet": "Sheet_04_The_Research_Rabbit_Hole.png",
+      "row": 4,
+      "column": 2,
+      "crop_box": [
+        574,
+        700,
+        1189,
+        936
+      ],
+      "native_size": [
+        615,
+        236
+      ],
+      "ink_fraction": 0.170752,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S04-R4-C2.png"
+    },
+    {
+      "id": "S04-R4-C3",
+      "sheet": "Sheet_04_The_Research_Rabbit_Hole.png",
+      "row": 4,
+      "column": 3,
+      "crop_box": [
+        1197,
+        700,
+        1666,
+        936
+      ],
+      "native_size": [
+        469,
+        236
+      ],
+      "ink_fraction": 0.321257,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S04-R4-C3.png"
+    },
+    {
+      "id": "S05-R1-C1",
+      "sheet": "Sheet_05_Why_Preparation_Feels_Safe.png",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        4,
+        4,
+        578,
+        307
+      ],
+      "native_size": [
+        574,
+        303
+      ],
+      "ink_fraction": 0.082566,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S05-R1-C1.png"
+    },
+    {
+      "id": "S05-R1-C2",
+      "sheet": "Sheet_05_Why_Preparation_Feels_Safe.png",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        586,
+        4,
+        1088,
+        307
+      ],
+      "native_size": [
+        502,
+        303
+      ],
+      "ink_fraction": 0.114775,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S05-R1-C2.png"
+    },
+    {
+      "id": "S05-R1-C3",
+      "sheet": "Sheet_05_Why_Preparation_Feels_Safe.png",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        1096,
+        4,
+        1666,
+        307
+      ],
+      "native_size": [
+        570,
+        303
+      ],
+      "ink_fraction": 0.158607,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S05-R1-C3.png"
+    },
+    {
+      "id": "S05-R2-C1",
+      "sheet": "Sheet_05_Why_Preparation_Feels_Safe.png",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        4,
+        315,
+        578,
+        625
+      ],
+      "native_size": [
+        574,
+        310
+      ],
+      "ink_fraction": 0.115972,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S05-R2-C1.png"
+    },
+    {
+      "id": "S05-R2-C2",
+      "sheet": "Sheet_05_Why_Preparation_Feels_Safe.png",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        586,
+        315,
+        1088,
+        625
+      ],
+      "native_size": [
+        502,
+        310
+      ],
+      "ink_fraction": 0.208187,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S05-R2-C2.png"
+    },
+    {
+      "id": "S05-R2-C3",
+      "sheet": "Sheet_05_Why_Preparation_Feels_Safe.png",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        1096,
+        315,
+        1666,
+        625
+      ],
+      "native_size": [
+        570,
+        310
+      ],
+      "ink_fraction": 0.104884,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S05-R2-C3.png"
+    },
+    {
+      "id": "S05-R3-C1",
+      "sheet": "Sheet_05_Why_Preparation_Feels_Safe.png",
+      "row": 3,
+      "column": 1,
+      "crop_box": [
+        4,
+        633,
+        578,
+        936
+      ],
+      "native_size": [
+        574,
+        303
+      ],
+      "ink_fraction": 0.104898,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S05-R3-C1.png"
+    },
+    {
+      "id": "S05-R3-C2",
+      "sheet": "Sheet_05_Why_Preparation_Feels_Safe.png",
+      "row": 3,
+      "column": 2,
+      "crop_box": [
+        586,
+        633,
+        1088,
+        936
+      ],
+      "native_size": [
+        502,
+        303
+      ],
+      "ink_fraction": 0.148844,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S05-R3-C2.png"
+    },
+    {
+      "id": "S05-R3-C3",
+      "sheet": "Sheet_05_Why_Preparation_Feels_Safe.png",
+      "row": 3,
+      "column": 3,
+      "crop_box": [
+        1096,
+        633,
+        1666,
+        936
+      ],
+      "native_size": [
+        570,
+        303
+      ],
+      "ink_fraction": 0.187453,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S05-R3-C3.png"
+    },
+    {
+      "id": "S06-R1-C1",
+      "sheet": "Sheet_06_One_More_Thing_Before_Starting.png",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        4,
+        4,
+        553,
+        310
+      ],
+      "native_size": [
+        549,
+        306
+      ],
+      "ink_fraction": 0.157143,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S06-R1-C1.png"
+    },
+    {
+      "id": "S06-R1-C2",
+      "sheet": "Sheet_06_One_More_Thing_Before_Starting.png",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        561,
+        4,
+        1110,
+        310
+      ],
+      "native_size": [
+        549,
+        306
+      ],
+      "ink_fraction": 0.162494,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S06-R1-C2.png"
+    },
+    {
+      "id": "S06-R1-C3",
+      "sheet": "Sheet_06_One_More_Thing_Before_Starting.png",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        1118,
+        4,
+        1666,
+        310
+      ],
+      "native_size": [
+        548,
+        306
+      ],
+      "ink_fraction": 0.13026,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S06-R1-C3.png"
+    },
+    {
+      "id": "S06-R2-C1",
+      "sheet": "Sheet_06_One_More_Thing_Before_Starting.png",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        4,
+        318,
+        553,
+        621
+      ],
+      "native_size": [
+        549,
+        303
+      ],
+      "ink_fraction": 0.101036,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S06-R2-C1.png"
+    },
+    {
+      "id": "S06-R2-C2",
+      "sheet": "Sheet_06_One_More_Thing_Before_Starting.png",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        561,
+        318,
+        1110,
+        621
+      ],
+      "native_size": [
+        549,
+        303
+      ],
+      "ink_fraction": 0.130456,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S06-R2-C2.png"
+    },
+    {
+      "id": "S06-R2-C3",
+      "sheet": "Sheet_06_One_More_Thing_Before_Starting.png",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        1118,
+        318,
+        1666,
+        621
+      ],
+      "native_size": [
+        548,
+        303
+      ],
+      "ink_fraction": 0.152803,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S06-R2-C3.png"
+    },
+    {
+      "id": "S06-R3-C1",
+      "sheet": "Sheet_06_One_More_Thing_Before_Starting.png",
+      "row": 3,
+      "column": 1,
+      "crop_box": [
+        4,
+        629,
+        553,
+        935
+      ],
+      "native_size": [
+        549,
+        306
+      ],
+      "ink_fraction": 0.351935,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S06-R3-C1.png"
+    },
+    {
+      "id": "S06-R3-C2",
+      "sheet": "Sheet_06_One_More_Thing_Before_Starting.png",
+      "row": 3,
+      "column": 2,
+      "crop_box": [
+        561,
+        629,
+        1110,
+        935
+      ],
+      "native_size": [
+        549,
+        306
+      ],
+      "ink_fraction": 0.04674,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S06-R3-C2.png"
+    },
+    {
+      "id": "S06-R3-C3",
+      "sheet": "Sheet_06_One_More_Thing_Before_Starting.png",
+      "row": 3,
+      "column": 3,
+      "crop_box": [
+        1118,
+        629,
+        1666,
+        935
+      ],
+      "native_size": [
+        548,
+        306
+      ],
+      "ink_fraction": 0.06685,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S06-R3-C3.png"
+    },
+    {
+      "id": "S07-R1-C1",
+      "sheet": "Sheet_07_Protecting_Potential_Avoiding_Beginnership.png",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        4,
+        4,
+        579,
+        307
+      ],
+      "native_size": [
+        575,
+        303
+      ],
+      "ink_fraction": 0.087215,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S07-R1-C1.png"
+    },
+    {
+      "id": "S07-R1-C2",
+      "sheet": "Sheet_07_Protecting_Potential_Avoiding_Beginnership.png",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        587,
+        4,
+        1088,
+        307
+      ],
+      "native_size": [
+        501,
+        303
+      ],
+      "ink_fraction": 0.200793,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S07-R1-C2.png"
+    },
+    {
+      "id": "S07-R1-C3",
+      "sheet": "Sheet_07_Protecting_Potential_Avoiding_Beginnership.png",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        1096,
+        4,
+        1666,
+        307
+      ],
+      "native_size": [
+        570,
+        303
+      ],
+      "ink_fraction": 0.083383,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S07-R1-C3.png"
+    },
+    {
+      "id": "S07-R2-C1",
+      "sheet": "Sheet_07_Protecting_Potential_Avoiding_Beginnership.png",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        4,
+        315,
+        579,
+        614
+      ],
+      "native_size": [
+        575,
+        299
+      ],
+      "ink_fraction": 0.113788,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S07-R2-C1.png"
+    },
+    {
+      "id": "S07-R2-C2",
+      "sheet": "Sheet_07_Protecting_Potential_Avoiding_Beginnership.png",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        587,
+        315,
+        1088,
+        614
+      ],
+      "native_size": [
+        501,
+        299
+      ],
+      "ink_fraction": 0.113372,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S07-R2-C2.png"
+    },
+    {
+      "id": "S07-R2-C3",
+      "sheet": "Sheet_07_Protecting_Potential_Avoiding_Beginnership.png",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        1096,
+        315,
+        1666,
+        614
+      ],
+      "native_size": [
+        570,
+        299
+      ],
+      "ink_fraction": 0.282333,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S07-R2-C3.png"
+    },
+    {
+      "id": "S07-R3-C1",
+      "sheet": "Sheet_07_Protecting_Potential_Avoiding_Beginnership.png",
+      "row": 3,
+      "column": 1,
+      "crop_box": [
+        4,
+        622,
+        579,
+        935
+      ],
+      "native_size": [
+        575,
+        313
+      ],
+      "ink_fraction": 0.128785,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S07-R3-C1.png"
+    },
+    {
+      "id": "S07-R3-C2",
+      "sheet": "Sheet_07_Protecting_Potential_Avoiding_Beginnership.png",
+      "row": 3,
+      "column": 2,
+      "crop_box": [
+        587,
+        622,
+        1088,
+        935
+      ],
+      "native_size": [
+        501,
+        313
+      ],
+      "ink_fraction": 0.139912,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S07-R3-C2.png"
+    },
+    {
+      "id": "S07-R3-C3",
+      "sheet": "Sheet_07_Protecting_Potential_Avoiding_Beginnership.png",
+      "row": 3,
+      "column": 3,
+      "crop_box": [
+        1096,
+        622,
+        1666,
+        935
+      ],
+      "native_size": [
+        570,
+        313
+      ],
+      "ink_fraction": 0.097035,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S07-R3-C3.png"
+    },
+    {
+      "id": "S08-R1-C1",
+      "sheet": "Sheet_08_Reality_Gives_You_Feedback.png",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        4,
+        4,
+        553,
+        309
+      ],
+      "native_size": [
+        549,
+        305
+      ],
+      "ink_fraction": 0.20089,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S08-R1-C1.png"
+    },
+    {
+      "id": "S08-R1-C2",
+      "sheet": "Sheet_08_Reality_Gives_You_Feedback.png",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        561,
+        4,
+        1110,
+        309
+      ],
+      "native_size": [
+        549,
+        305
+      ],
+      "ink_fraction": 0.121091,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S08-R1-C2.png"
+    },
+    {
+      "id": "S08-R1-C3",
+      "sheet": "Sheet_08_Reality_Gives_You_Feedback.png",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        1118,
+        4,
+        1666,
+        309
+      ],
+      "native_size": [
+        548,
+        305
+      ],
+      "ink_fraction": 0.104511,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S08-R1-C3.png"
+    },
+    {
+      "id": "S08-R2-C1",
+      "sheet": "Sheet_08_Reality_Gives_You_Feedback.png",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        4,
+        317,
+        553,
+        622
+      ],
+      "native_size": [
+        549,
+        305
+      ],
+      "ink_fraction": 0.163696,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S08-R2-C1.png"
+    },
+    {
+      "id": "S08-R2-C2",
+      "sheet": "Sheet_08_Reality_Gives_You_Feedback.png",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        561,
+        317,
+        1110,
+        622
+      ],
+      "native_size": [
+        549,
+        305
+      ],
+      "ink_fraction": 0.139431,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S08-R2-C2.png"
+    },
+    {
+      "id": "S08-R2-C3",
+      "sheet": "Sheet_08_Reality_Gives_You_Feedback.png",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        1118,
+        317,
+        1666,
+        622
+      ],
+      "native_size": [
+        548,
+        305
+      ],
+      "ink_fraction": 0.110387,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S08-R2-C3.png"
+    },
+    {
+      "id": "S08-R3-C1",
+      "sheet": "Sheet_08_Reality_Gives_You_Feedback.png",
+      "row": 3,
+      "column": 1,
+      "crop_box": [
+        4,
+        630,
+        553,
+        936
+      ],
+      "native_size": [
+        549,
+        306
+      ],
+      "ink_fraction": 0.124052,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S08-R3-C1.png"
+    },
+    {
+      "id": "S08-R3-C2",
+      "sheet": "Sheet_08_Reality_Gives_You_Feedback.png",
+      "row": 3,
+      "column": 2,
+      "crop_box": [
+        561,
+        630,
+        1110,
+        936
+      ],
+      "native_size": [
+        549,
+        306
+      ],
+      "ink_fraction": 0.140844,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S08-R3-C2.png"
+    },
+    {
+      "id": "S08-R3-C3",
+      "sheet": "Sheet_08_Reality_Gives_You_Feedback.png",
+      "row": 3,
+      "column": 3,
+      "crop_box": [
+        1118,
+        630,
+        1666,
+        936
+      ],
+      "native_size": [
+        548,
+        306
+      ],
+      "ink_fraction": 0.121696,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S08-R3-C3.png"
+    },
+    {
+      "id": "S09-R1-C1",
+      "sheet": "Sheet_09_Prepare_Act_Learn_Repeat.png",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        4,
+        4,
+        554,
+        308
+      ],
+      "native_size": [
+        550,
+        304
+      ],
+      "ink_fraction": 0.116094,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S09-R1-C1.png"
+    },
+    {
+      "id": "S09-R1-C2",
+      "sheet": "Sheet_09_Prepare_Act_Learn_Repeat.png",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        562,
+        4,
+        1110,
+        308
+      ],
+      "native_size": [
+        548,
+        304
+      ],
+      "ink_fraction": 0.171731,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S09-R1-C2.png"
+    },
+    {
+      "id": "S09-R1-C3",
+      "sheet": "Sheet_09_Prepare_Act_Learn_Repeat.png",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        1118,
+        4,
+        1666,
+        308
+      ],
+      "native_size": [
+        548,
+        304
+      ],
+      "ink_fraction": 0.102856,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S09-R1-C3.png"
+    },
+    {
+      "id": "S09-R2-C1",
+      "sheet": "Sheet_09_Prepare_Act_Learn_Repeat.png",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        4,
+        316,
+        554,
+        621
+      ],
+      "native_size": [
+        550,
+        305
+      ],
+      "ink_fraction": 0.159183,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S09-R2-C1.png"
+    },
+    {
+      "id": "S09-R2-C2",
+      "sheet": "Sheet_09_Prepare_Act_Learn_Repeat.png",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        562,
+        316,
+        1110,
+        621
+      ],
+      "native_size": [
+        548,
+        305
+      ],
+      "ink_fraction": 0.125176,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S09-R2-C2.png"
+    },
+    {
+      "id": "S09-R2-C3",
+      "sheet": "Sheet_09_Prepare_Act_Learn_Repeat.png",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        1118,
+        316,
+        1666,
+        621
+      ],
+      "native_size": [
+        548,
+        305
+      ],
+      "ink_fraction": 0.189847,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S09-R2-C3.png"
+    },
+    {
+      "id": "S09-R3-C1",
+      "sheet": "Sheet_09_Prepare_Act_Learn_Repeat.png",
+      "row": 3,
+      "column": 1,
+      "crop_box": [
+        4,
+        629,
+        554,
+        936
+      ],
+      "native_size": [
+        550,
+        307
+      ],
+      "ink_fraction": 0.102073,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S09-R3-C1.png"
+    },
+    {
+      "id": "S09-R3-C2",
+      "sheet": "Sheet_09_Prepare_Act_Learn_Repeat.png",
+      "row": 3,
+      "column": 2,
+      "crop_box": [
+        562,
+        629,
+        1110,
+        936
+      ],
+      "native_size": [
+        548,
+        307
+      ],
+      "ink_fraction": 0.094784,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S09-R3-C2.png"
+    },
+    {
+      "id": "S09-R3-C3",
+      "sheet": "Sheet_09_Prepare_Act_Learn_Repeat.png",
+      "row": 3,
+      "column": 3,
+      "crop_box": [
+        1118,
+        629,
+        1666,
+        936
+      ],
+      "native_size": [
+        548,
+        307
+      ],
+      "ink_fraction": 0.10175,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S09-R3-C3.png"
+    },
+    {
+      "id": "S10-R1-C1",
+      "sheet": "Sheet_10_Stop_Hiding_Make_It_Real.png",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        4,
+        4,
+        560,
+        308
+      ],
+      "native_size": [
+        556,
+        304
+      ],
+      "ink_fraction": 0.190381,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S10-R1-C1.png"
+    },
+    {
+      "id": "S10-R1-C2",
+      "sheet": "Sheet_10_Stop_Hiding_Make_It_Real.png",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        568,
+        4,
+        1104,
+        308
+      ],
+      "native_size": [
+        536,
+        304
+      ],
+      "ink_fraction": 0.139839,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S10-R1-C2.png"
+    },
+    {
+      "id": "S10-R1-C3",
+      "sheet": "Sheet_10_Stop_Hiding_Make_It_Real.png",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        1112,
+        4,
+        1666,
+        308
+      ],
+      "native_size": [
+        554,
+        304
+      ],
+      "ink_fraction": 0.195599,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S10-R1-C3.png"
+    },
+    {
+      "id": "S10-R2-C1",
+      "sheet": "Sheet_10_Stop_Hiding_Make_It_Real.png",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        4,
+        316,
+        560,
+        614
+      ],
+      "native_size": [
+        556,
+        298
+      ],
+      "ink_fraction": 0.12733,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S10-R2-C1.png"
+    },
+    {
+      "id": "S10-R2-C2",
+      "sheet": "Sheet_10_Stop_Hiding_Make_It_Real.png",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        568,
+        316,
+        1104,
+        614
+      ],
+      "native_size": [
+        536,
+        298
+      ],
+      "ink_fraction": 0.091368,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S10-R2-C2.png"
+    },
+    {
+      "id": "S10-R2-C3",
+      "sheet": "Sheet_10_Stop_Hiding_Make_It_Real.png",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        1112,
+        316,
+        1666,
+        614
+      ],
+      "native_size": [
+        554,
+        298
+      ],
+      "ink_fraction": 0.140552,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S10-R2-C3.png"
+    },
+    {
+      "id": "S10-R3-C1",
+      "sheet": "Sheet_10_Stop_Hiding_Make_It_Real.png",
+      "row": 3,
+      "column": 1,
+      "crop_box": [
+        4,
+        622,
+        560,
+        936
+      ],
+      "native_size": [
+        556,
+        314
+      ],
+      "ink_fraction": 0.153554,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S10-R3-C1.png"
+    },
+    {
+      "id": "S10-R3-C2",
+      "sheet": "Sheet_10_Stop_Hiding_Make_It_Real.png",
+      "row": 3,
+      "column": 2,
+      "crop_box": [
+        568,
+        622,
+        1104,
+        936
+      ],
+      "native_size": [
+        536,
+        314
+      ],
+      "ink_fraction": 0.169022,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S10-R3-C2.png"
+    },
+    {
+      "id": "S10-R3-C3",
+      "sheet": "Sheet_10_Stop_Hiding_Make_It_Real.png",
+      "row": 3,
+      "column": 3,
+      "crop_box": [
+        1112,
+        622,
+        1666,
+        936
+      ],
+      "native_size": [
+        554,
+        314
+      ],
+      "ink_fraction": 0.251627,
+      "status": "used",
+      "reason": "Narration-timed use; see synchronization review",
+      "file": "panels_native/S10-R3-C3.png"
+    }
+  ],
+  "counts": {
+    "sheets": 10,
+    "grid_cells": 93,
+    "illustrated_panels": 88,
+    "blank_cells": 5
+  },
+  "qa_scope": "All original sheets inspected; extracted native crops not individually visually approved; final motion/typography/caption QA pending."
+}

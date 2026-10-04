@@ -1,0 +1,62 @@
+name: Render approved episode master
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: preparing-episode-master
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Install pinned render dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          python -m pip install -r requirements.txt
+          sudo mkdir -p /data/sr_models
+          sudo chown -R "$USER" /data
+          cp inputs/FSRCNN_x4.pb /data/sr_models/FSRCNN_x4.pb
+      - name: Restore supplied artwork and final narration
+        run: |
+          unzip -q inputs/stickman_contact_sheets.zip
+          python extract_panels.py .
+          ffmpeg -y -loglevel error -i inputs/voiceover.flac -ar 44100 -ac 1 voiceover.wav
+      - name: Prepare synchronized source and artwork
+        run: |
+          python prepare_art.py
+          python build_plan.py
+          python build_mix.py
+          python make_thumbnail.py
+      - name: Render the complete captioned master
+        run: |
+          python v2/render_motion.py 0 591.4365759637187 final.mp4
+      - name: Technical gates and actual-frame review package
+        run: |
+          python export_qa.py
+      - name: Preserve reviewed-build candidates
+        uses: actions/upload-artifact@v4
+        with:
+          name: episode-master-${{ github.run_id }}
+          retention-days: 30
+          compression-level: 0
+          path: |
+            final.mp4
+            thumbnail.png
+            seo.md
+            transcript.txt
+            source-project-v1.zip
+            technical-review-v1.zip
+            technical-qa.json
+            loudness-qa.json
+            qa_summary.json
+            v2/panel_sync_review.md
+            v2/scene_plan.json
+            v2/captions.ass
+            v2/qa_final/*.png

@@ -1,14 +1,10 @@
 {
-  "title": "Why You Keep Preparing Instead of Starting.",
-  "format": {"width": 1920, "height": 1080, "fps": 30},
-  "script": "original wording preserved in canonical private Notion project",
-  "source_zip_sha256": "dc5417cda6515c38d4b35cd528031dc434e1256a2b8407c25f8196ed72205938",
-  "artwork": {"sheets": 10, "sheet_size": [1672,941], "grid_cells": 93, "illustrated_panels": 88, "blank_cells": ["S02-R1-C3","S02-R2-C2","S04-R1-C3","S04-R2-C3","S04-R3-C3"], "native_crop_validation": "decoded and inventoried; individual visual crop approval pending", "neural_reconstruction": "pending"},
-  "narration": "not synthesized",
-  "alignment": "pending",
-  "timings_locked": false,
-  "active_render_job": false,
-  "master": "not rendered",
-  "release": "not published",
-  "blocker": "computer internet access disabled"
+  "stage": "ready for persistent full render",
+  "scenes": 123,
+  "used_panels": 87,
+  "available_panels": 88,
+  "voiceover_duration": 591.1365759637188,
+  "master_target_duration": 591.4365759637187,
+  "private": true,
+  "release": "pending visual and technical QA"
 }

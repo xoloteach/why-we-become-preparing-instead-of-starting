@@ -1,38 +1,19 @@
 # Why You Keep Preparing Instead of Starting.
 
-Why We Become — 16:9 motion-first episode production. This repository remains private.
+Private Why We Become episode source. Canonical script and supplied artwork are preserved in the private Notion project with the same title. Original wording and artwork are retained.
 
-## Canonical source
+## Build
 
-The private Notion project titled **Why You Keep Preparing Instead of Starting. — Why We Become** preserves the original title, unchanged narration script, supplied image ZIP and downloadable production checkpoint. Notion is the source of truth for script wording; do not copy credentials or unrelated workspace exports into this repository.
+The complete renderer is v2/render_motion.py, adapted from the user-approved motion-first benchmark. Source inputs are the original image ZIP and lossless final narration FLAC. No provider credentials are needed to reproduce a render.
 
-## Completed preflight
+See .github/workflows/render.yml for the full standalone dependency and build recipe. Extract the supplied ZIP, run extract_panels.py, put inputs/FSRCNN_x4.pb in /data/sr_models, decode inputs/voiceover.flac to voiceover.wav, then run prepare_art.py, build_plan.py, build_mix.py, make_thumbnail.py and the renderer. export_qa.py verifies the result and packages reproducible source and review frames.
 
-- Ten PNG sheets, each 1672×941, visually inspected individually.
-- Actual grid boundaries detected rather than assumed equal thirds.
-- 93 physical cells: 88 illustrated native panels and five omitted blank cells.
-- Sheet 02 blanks: R1C3 and R2C2. Sheet 04 has four rows; R1C3, R2C3 and R3C3 are blank. The other sheets have three rows.
-- Native crops decoded and inventoried. Individual visual crop approval and neural reconstruction remain pending.
-- Checkpoint archive saved to the Notion project: original artwork, native crops, panel inventory, extraction source, pending upscale report and artwork intake review.
+Narration uses flux-cole-en, 0.95 speed and calm expressivity; nova-3 aligned the final processed audio. Provider secrets remain outside this repository. The raw TTS text and original caption/transcript wording are unchanged. Natural spoken contractions and short STT recognition variants are reviewed in script_alignment.json.
 
-## Offline reproduction
+123 phrase-timed scenes use 87 of 88 supplied illustrations. The remaining illustrated panel and five blank grid cells have explicit omission reasons. All 88 illustrated panels have a 4× FSRCNN reconstruction and are available to reproduce the project.
 
-Restore the stickman_contact_sheets folder from the original ZIP in Notion. With Pillow and numpy installed, run `python3 extract_panels.py .`.
+## Quality gates
 
-The extractor uses no network or credentials. It writes native crops atomically, panel_inventory.json and a pending upscale_report.json. Do not treat its output as final visually approved artwork.
+1920×1080 / 30 fps; duration within 0.5 seconds of final narration; -17.5 to -14.5 LUFS; audio present; nonempty word-highlighted captions. Structural headline/cue audit and representative local motion samples precede the persistent full render. Actual final frames and technical measurements must be reviewed before publishing a new versioned release.
 
-## Current blocker
-
-Computer internet access is disabled. Narration synthesis and alignment have not been attempted. There is no voiceover, locked timing map, active render job, finished video or release from this production checkpoint.
-
-## Next production gates
-
-1. Verify provider support and synthesize the original script with the validated Deepgram narration route.
-2. Finish vocal processing and pause trimming, then align spoken words and cue phrases against the final audio.
-3. Reconstruct artwork when needed, prepare masks and write panel-by-panel scene/cue assignments, reuse and omission reasons.
-4. Build semantic motion, steady highlighted captions, ducked music/SFX and canonical end card. Do not distribute panels evenly across an estimated duration.
-5. Persist source/assets before full rendering, then inspect real captioned frames and motion samples.
-6. Verify 1920×1080 at 30 fps; master duration within 0.5 s of audio; non-silent audio at -17.5 to -14.5 LUFS; nonempty subtitles; no material text/mask/timing defects.
-7. Publish a new private versioned release only after QA, with master, thumbnail, real chapter times, transcript, source and QA report. Preserve prior releases.
-
-Never commit keys, .env files, credential-bearing logs or private workspace exports. Use protected environment values for provider requests.
+A workflow artifact is not a release. Never overwrite an existing published version. Keep the repository private. Never commit credentials, .env files, runtime logs or unrelated private workspace exports.

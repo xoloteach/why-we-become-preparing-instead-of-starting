@@ -1,0 +1,47 @@
+{
+  "vo_end": 591.1365759637188,
+  "total": 591.4365759637187,
+  "end_card_start": 586.985,
+  "chapters": [
+    {
+      "title": "A Beginning",
+      "start": 0.0
+    },
+    {
+      "title": "Productive but Stuck",
+      "start": 18.035
+    },
+    {
+      "title": "Everything Is Ready",
+      "start": 37.59
+    },
+    {
+      "title": "The Rabbit Hole",
+      "start": 66.05
+    },
+    {
+      "title": "The Safe Fantasy",
+      "start": 116.33
+    },
+    {
+      "title": "The Moving Finish Line",
+      "start": 167.27
+    },
+    {
+      "title": "Protecting Potential",
+      "start": 189.125
+    },
+    {
+      "title": "Reality Gives Feedback",
+      "start": 247.515
+    },
+    {
+      "title": "Prepare, Act, Learn",
+      "start": 332.49503
+    },
+    {
+      "title": "Make It Real",
+      "start": 406.87
+    }
+  ]
+}

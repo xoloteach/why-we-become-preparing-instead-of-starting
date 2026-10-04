@@ -1,0 +1,3189 @@
+[
+  {
+    "phrase": "Imagine this.",
+    "flat_start": 0,
+    "start": 0.0,
+    "art": "01-1",
+    "kind": "paths",
+    "title": "Something you\nwant to do.",
+    "labels": [
+      "A BEGINNING"
+    ],
+    "cue_phrases": [
+      "Imagine this."
+    ],
+    "cues": [
+      0.0
+    ],
+    "id": 0,
+    "end": 3.36,
+    "dark": false,
+    "chapter": 1,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Maybe you want to start working out.",
+    "flat_start": 56,
+    "start": 3.36,
+    "art": "01-2",
+    "kind": "focus",
+    "title": "Work out.",
+    "labels": [
+      "WORKOUT"
+    ],
+    "cue_phrases": [
+      "working out"
+    ],
+    "cues": [
+      4.24
+    ],
+    "id": 1,
+    "end": 5.2,
+    "dark": false,
+    "chapter": 1,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "Maybe you want to learn a skill.",
+    "flat_start": 93,
+    "start": 5.2,
+    "art": "01-3",
+    "kind": "focus",
+    "title": "Learn a skill.",
+    "labels": [
+      "PRACTICE"
+    ],
+    "cue_phrases": [
+      "learn a skill"
+    ],
+    "cues": [
+      5.92
+    ],
+    "id": 2,
+    "end": 7.2799997,
+    "dark": false,
+    "chapter": 1,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Maybe you want to start a business.",
+    "flat_start": 126,
+    "start": 7.2799997,
+    "art": "01-4",
+    "kind": "focus",
+    "title": "Build something.",
+    "labels": [
+      "BUSINESS"
+    ],
+    "cue_phrases": [
+      "start a business"
+    ],
+    "cues": [
+      8.16
+    ],
+    "id": 3,
+    "end": 9.44,
+    "dark": false,
+    "chapter": 1,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "Maybe you want to make videos.",
+    "flat_start": 162,
+    "start": 9.44,
+    "art": "01-5",
+    "kind": "focus",
+    "title": "Make videos.",
+    "labels": [
+      "CREATE"
+    ],
+    "cue_phrases": [
+      "make videos"
+    ],
+    "cues": [
+      10.08
+    ],
+    "id": 4,
+    "end": 11.2,
+    "dark": false,
+    "chapter": 1,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Maybe you want to finally fix your sleep.",
+    "flat_start": 193,
+    "start": 11.2,
+    "art": "01-6",
+    "kind": "clock",
+    "title": "Fix your sleep.",
+    "labels": [
+      "A ROUTINE"
+    ],
+    "cue_phrases": [
+      "fix your sleep"
+    ],
+    "cues": [
+      12.4
+    ],
+    "id": 5,
+    "end": 13.555,
+    "dark": false,
+    "chapter": 1,
+    "feature": false,
+    "layout": "left",
+    "clock_label": "SLEEP"
+  },
+  {
+    "phrase": "Whatever it is...",
+    "flat_start": 235,
+    "start": 13.555,
+    "art": "01-7",
+    "kind": "thought",
+    "title": "I'm getting\nready.",
+    "labels": [
+      "READY"
+    ],
+    "cue_phrases": [
+      "getting ready"
+    ],
+    "cues": [
+      17.155
+    ],
+    "id": 6,
+    "end": 18.035,
+    "dark": false,
+    "chapter": 1,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "So you start researching.",
+    "flat_start": 316,
+    "start": 18.035,
+    "art": "01-8",
+    "kind": "search",
+    "title": "Research feels\nlike movement.",
+    "labels": [
+      "RESEARCH"
+    ],
+    "cue_phrases": [
+      "researching"
+    ],
+    "cues": [
+      18.675
+    ],
+    "id": 7,
+    "end": 19.395,
+    "dark": false,
+    "chapter": 2,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "You watch videos.",
+    "flat_start": 342,
+    "start": 19.395,
+    "art": "02-1",
+    "kind": "feed",
+    "title": "One more video.",
+    "labels": [
+      "VIDEOS"
+    ],
+    "cue_phrases": [
+      "watch videos"
+    ],
+    "cues": [
+      19.555
+    ],
+    "id": 8,
+    "end": 20.355,
+    "dark": false,
+    "chapter": 2,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "You read articles.",
+    "flat_start": 360,
+    "start": 20.355,
+    "art": "02-2",
+    "kind": "stack",
+    "title": "One more article.",
+    "labels": [
+      "ARTICLES"
+    ],
+    "cue_phrases": [
+      "read articles"
+    ],
+    "cues": [
+      20.595001
+    ],
+    "id": 9,
+    "end": 21.555,
+    "dark": false,
+    "chapter": 2,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "You compare different options.",
+    "flat_start": 379,
+    "start": 21.555,
+    "art": "02-4",
+    "kind": "split",
+    "title": "Compare.\nCompare again.",
+    "labels": [
+      "OPTIONS",
+      "TOOLS"
+    ],
+    "cue_phrases": [
+      "different options",
+      "best tools"
+    ],
+    "cues": [
+      22.035,
+      23.955
+    ],
+    "id": 10,
+    "end": 24.675,
+    "dark": false,
+    "chapter": 2,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "You download an app.",
+    "flat_start": 439,
+    "start": 24.675,
+    "art": "02-6",
+    "kind": "stack",
+    "title": "An app.\nA plan.",
+    "labels": [
+      "APP",
+      "PLAN"
+    ],
+    "cue_phrases": [
+      "download an app",
+      "make a plan"
+    ],
+    "cues": [
+      24.915,
+      26.195
+    ],
+    "id": 11,
+    "end": 27.315,
+    "dark": false,
+    "chapter": 2,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Maybe you even buy a notebook...",
+    "flat_start": 477,
+    "start": 27.315,
+    "art": "02-7",
+    "kind": "focus",
+    "title": "Write it all down.",
+    "labels": [
+      "NOTEBOOK",
+      "NOTES"
+    ],
+    "cue_phrases": [
+      "buy a notebook",
+      "write everything down"
+    ],
+    "cues": [
+      28.275002,
+      29.51
+    ],
+    "id": 12,
+    "end": 30.87,
+    "dark": false,
+    "chapter": 2,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "And after all that...",
+    "flat_start": 537,
+    "start": 30.87,
+    "art": "02-8",
+    "kind": "thought",
+    "title": "It feels\nproductive.",
+    "labels": [
+      "PRODUCTIVE",
+      "MOVING FORWARD?"
+    ],
+    "cue_phrases": [
+      "feel productive",
+      "moving forward"
+    ],
+    "cues": [
+      32.39,
+      34.31
+    ],
+    "id": 13,
+    "end": 35.35,
+    "dark": false,
+    "chapter": 2,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "But then something strange happens.",
+    "flat_start": 617,
+    "start": 35.35,
+    "art": "02-9",
+    "kind": "stack",
+    "title": "Prepared.\nStill waiting.",
+    "labels": [
+      "A STACK OF PREPARATION"
+    ],
+    "cue_phrases": [
+      "something strange happens"
+    ],
+    "cues": [
+      35.670002
+    ],
+    "id": 14,
+    "end": 37.59,
+    "dark": false,
+    "chapter": 2,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "A week passes.",
+    "flat_start": 653,
+    "start": 37.59,
+    "art": "03-1",
+    "kind": "timeline",
+    "title": "The weeks pass.",
+    "labels": [
+      "ONE WEEK",
+      "ANOTHER"
+    ],
+    "cue_phrases": [
+      "A week passes",
+      "Then another"
+    ],
+    "cues": [
+      37.59,
+      39.03
+    ],
+    "id": 15,
+    "end": 39.99,
+    "dark": false,
+    "chapter": 3,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "And somehow...",
+    "flat_start": 682,
+    "start": 39.99,
+    "art": "03-2",
+    "kind": "focus",
+    "title": "You haven't\nstarted.",
+    "labels": [
+      "NOT STARTED"
+    ],
+    "cue_phrases": [
+      "haven't actually started"
+    ],
+    "cues": [
+      41.35
+    ],
+    "id": 16,
+    "end": 42.55,
+    "dark": false,
+    "chapter": 3,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "The research is there.",
+    "flat_start": 733,
+    "start": 42.55,
+    "art": "03-3",
+    "kind": "stack",
+    "title": "Everything is\nready.",
+    "labels": [
+      "RESEARCH",
+      "PLAN"
+    ],
+    "cue_phrases": [
+      "research is there",
+      "plan is there"
+    ],
+    "cues": [
+      42.79,
+      43.989998
+    ],
+    "id": 17,
+    "end": 44.895,
+    "dark": false,
+    "chapter": 3,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "The ideas are there.",
+    "flat_start": 775,
+    "start": 44.895,
+    "art": "03-5",
+    "kind": "stack",
+    "title": "Ideas.\nMotivation.",
+    "labels": [
+      "IDEAS",
+      "MOTIVATION"
+    ],
+    "cue_phrases": [
+      "ideas are there",
+      "motivation is there"
+    ],
+    "cues": [
+      45.215,
+      46.575
+    ],
+    "id": 18,
+    "end": 47.855,
+    "dark": false,
+    "chapter": 3,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Everything is ready.",
+    "flat_start": 821,
+    "start": 47.855,
+    "art": "03-6",
+    "kind": "split",
+    "title": "Everything.\nExcept you.",
+    "labels": [
+      "EVERYTHING",
+      "EXCEPT YOU"
+    ],
+    "cue_phrases": [
+      "Everything is ready",
+      "Except"
+    ],
+    "cues": [
+      47.855,
+      49.135002
+    ],
+    "id": 19,
+    "end": 50.815002,
+    "dark": true,
+    "chapter": 3,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "And that's when you need to ask yourself",
+    "flat_start": 857,
+    "start": 50.815002,
+    "art": "03-7",
+    "kind": "thought",
+    "title": "Preparing...\nor avoiding?",
+    "labels": [
+      "PREPARING?",
+      "AVOIDING?"
+    ],
+    "cue_phrases": [
+      "preparing to start",
+      "avoid starting"
+    ],
+    "cues": [
+      54.895,
+      58.415
+    ],
+    "id": 20,
+    "end": 59.65,
+    "dark": true,
+    "chapter": 3,
+    "feature": true,
+    "layout": "right"
+  },
+  {
+    "phrase": "Because sometimes...",
+    "flat_start": 1027,
+    "start": 59.65,
+    "art": "03-9",
+    "kind": "split",
+    "title": "Procrastination\ncan look productive.",
+    "labels": [
+      "DOING NOTHING",
+      "LOOKING PRODUCTIVE"
+    ],
+    "cue_phrases": [
+      "doing nothing",
+      "incredibly productive"
+    ],
+    "cues": [
+      62.690002,
+      64.85
+    ],
+    "id": 21,
+    "end": 66.05,
+    "dark": false,
+    "chapter": 3,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Think about the last time you wanted to change something in your life.",
+    "flat_start": 1142,
+    "start": 66.05,
+    "art": "04-1",
+    "kind": "thought",
+    "title": "The research\nrabbit hole.",
+    "labels": [
+      "CHANGE SOMETHING"
+    ],
+    "cue_phrases": [
+      "change something in your life"
+    ],
+    "cues": [
+      67.81
+    ],
+    "id": 22,
+    "end": 69.25,
+    "dark": false,
+    "chapter": 4,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "Maybe you wanted to start going to the gym.",
+    "flat_start": 1213,
+    "start": 69.25,
+    "art": "01-2",
+    "kind": "paths",
+    "title": "Before the gym.",
+    "labels": [
+      "GO TO THE GYM"
+    ],
+    "cue_phrases": [
+      "going to the gym"
+    ],
+    "cues": [
+      70.29
+    ],
+    "id": 23,
+    "end": 73.585,
+    "dark": false,
+    "chapter": 4,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "First...",
+    "flat_start": 1290,
+    "start": 73.585,
+    "art": "04-1",
+    "kind": "feed",
+    "title": "The best routine.",
+    "labels": [
+      "WORKOUT ROUTINE"
+    ],
+    "cue_phrases": [
+      "best workout routine"
+    ],
+    "cues": [
+      75.34499
+    ],
+    "id": 24,
+    "end": 76.865,
+    "dark": false,
+    "chapter": 4,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "Then you watched videos about nutrition.",
+    "flat_start": 1342,
+    "start": 76.865,
+    "art": "04-2",
+    "kind": "feed",
+    "title": "Then nutrition.",
+    "labels": [
+      "NUTRITION",
+      "EXERCISES"
+    ],
+    "cue_phrases": [
+      "nutrition",
+      "different exercises"
+    ],
+    "cues": [
+      78.145,
+      79.744995
+    ],
+    "id": 25,
+    "end": 81.345,
+    "dark": false,
+    "chapter": 4,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Then you looked at gym shoes.",
+    "flat_start": 1422,
+    "start": 81.345,
+    "art": "04-4",
+    "kind": "split",
+    "title": "Even the shoes.",
+    "labels": [
+      "GYM SHOES"
+    ],
+    "cue_phrases": [
+      "gym shoes"
+    ],
+    "cues": [
+      81.905
+    ],
+    "id": 26,
+    "end": 82.945,
+    "dark": false,
+    "chapter": 4,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "Then you searched for the perfect schedule.",
+    "flat_start": 1452,
+    "start": 82.945,
+    "art": "04-5",
+    "kind": "stack",
+    "title": "The perfect\nschedule.",
+    "labels": [
+      "SCHEDULE"
+    ],
+    "cue_phrases": [
+      "perfect schedule"
+    ],
+    "cues": [
+      83.825
+    ],
+    "id": 27,
+    "end": 84.86,
+    "dark": false,
+    "chapter": 4,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Then you watched another video...",
+    "flat_start": 1496,
+    "start": 84.86,
+    "art": "04-7",
+    "kind": "feed",
+    "title": "Another video.",
+    "labels": [
+      "ANOTHER ROUTINE"
+    ],
+    "cue_phrases": [
+      "another video"
+    ],
+    "cues": [
+      85.5
+    ],
+    "id": 28,
+    "end": 89.58,
+    "dark": false,
+    "chapter": 4,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "And suddenly...",
+    "flat_start": 1592,
+    "start": 89.58,
+    "art": "04-8",
+    "kind": "clock",
+    "title": "Three hours.\nNo workout.",
+    "labels": [
+      "3 HOURS",
+      "NO WORKOUT"
+    ],
+    "cue_phrases": [
+      "three hours",
+      "haven't worked out"
+    ],
+    "cues": [
+      90.78,
+      93.1
+    ],
+    "id": 29,
+    "end": 94.22,
+    "dark": false,
+    "chapter": 4,
+    "feature": false,
+    "layout": "right",
+    "clock_label": "3 HOURS"
+  },
+  {
+    "phrase": "Or maybe you wanted to learn a new skill.",
+    "flat_start": 1687,
+    "start": 94.22,
+    "art": "04-11",
+    "kind": "search",
+    "title": "The perfect way\nto learn.",
+    "labels": [
+      "WHAT SKILL?",
+      "WHAT COURSE?"
+    ],
+    "cue_phrases": [
+      "What skill should I learn",
+      "best course"
+    ],
+    "cues": [
+      97.979996,
+      99.965
+    ],
+    "id": 30,
+    "end": 101.005,
+    "dark": false,
+    "chapter": 4,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "“What's the best YouTube channel?”",
+    "flat_start": 1810,
+    "start": 101.005,
+    "art": "04-10",
+    "kind": "feed",
+    "title": "More questions.",
+    "labels": [
+      "CHANNEL",
+      "SOFTWARE",
+      "LAPTOP"
+    ],
+    "cue_phrases": [
+      "best YouTube channel",
+      "this software",
+      "What laptop"
+    ],
+    "cues": [
+      101.325,
+      103.165,
+      104.924995
+    ],
+    "id": 31,
+    "end": 106.604996,
+    "dark": false,
+    "chapter": 4,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "“What is the fastest way to learn?”",
+    "flat_start": 1920,
+    "start": 106.604996,
+    "art": "04-12",
+    "kind": "stack",
+    "title": "Information\nfeels like progress.",
+    "labels": [
+      "MORE INFORMATION",
+      "FEELS LIKE PROGRESS"
+    ],
+    "cue_phrases": [
+      "collecting information",
+      "information feels like progress"
+    ],
+    "cues": [
+      108.845,
+      110.525
+    ],
+    "id": 32,
+    "end": 112.490005,
+    "dark": false,
+    "chapter": 4,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "But there's a difference between knowing what to do...",
+    "flat_start": 2032,
+    "start": 112.490005,
+    "art": "03-4",
+    "kind": "split",
+    "title": "Knowing ≠ doing.",
+    "labels": [
+      "KNOWING",
+      "DOING"
+    ],
+    "cue_phrases": [
+      "knowing what to do",
+      "actually doing it"
+    ],
+    "cues": [
+      113.69,
+      115.130005
+    ],
+    "id": 33,
+    "end": 116.33,
+    "dark": true,
+    "chapter": 4,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "And here's why preparation is so attractive.",
+    "flat_start": 2110,
+    "start": 116.33,
+    "art": "05-1",
+    "kind": "window",
+    "title": "Preparation\nfeels safe.",
+    "labels": [
+      "PREPARATION",
+      "SAFE"
+    ],
+    "cue_phrases": [
+      "preparation is so attractive",
+      "Preparation feels safe"
+    ],
+    "cues": [
+      116.97,
+      118.97
+    ],
+    "id": 34,
+    "end": 120.73,
+    "dark": false,
+    "chapter": 5,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "When you're preparing...",
+    "flat_start": 2179,
+    "start": 120.73,
+    "art": "05-2",
+    "kind": "thought",
+    "title": "Inside the\nperfect version.",
+    "labels": [
+      "EVERYTHING GOES PERFECTLY"
+    ],
+    "cue_phrases": [
+      "everything going perfectly"
+    ],
+    "cues": [
+      122.810005
+    ],
+    "id": 35,
+    "end": 124.485,
+    "dark": false,
+    "chapter": 5,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "You haven't made any mistakes yet.",
+    "flat_start": 2248,
+    "start": 124.485,
+    "art": "05-3",
+    "kind": "stack",
+    "title": "Nothing tested.\nNothing judged.",
+    "labels": [
+      "NO MISTAKES",
+      "NO FAILURE",
+      "NO JUDGMENT"
+    ],
+    "cue_phrases": [
+      "made any mistakes",
+      "haven't failed",
+      "judged your work"
+    ],
+    "cues": [
+      124.965004,
+      126.245,
+      127.765
+    ],
+    "id": 36,
+    "end": 130.965,
+    "dark": false,
+    "chapter": 5,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "You haven't discovered what you're actually bad at.",
+    "flat_start": 2381,
+    "start": 130.965,
+    "art": "05-4",
+    "kind": "thought",
+    "title": "Potential stays\nprotected.",
+    "labels": [
+      "IMAGINATION",
+      "MAYBE GREAT"
+    ],
+    "cue_phrases": [
+      "inside your imagination",
+      "Maybe even great"
+    ],
+    "cues": [
+      134.325,
+      138.78
+    ],
+    "id": 37,
+    "end": 139.82,
+    "dark": false,
+    "chapter": 5,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "But the moment you start...",
+    "flat_start": 2551,
+    "start": 139.82,
+    "art": "05-5",
+    "kind": "split",
+    "title": "Then reality\nbegins.",
+    "labels": [
+      "START",
+      "REALITY"
+    ],
+    "cue_phrases": [
+      "moment you start",
+      "reality begins"
+    ],
+    "cues": [
+      140.22,
+      141.02
+    ],
+    "id": 38,
+    "end": 142.22,
+    "dark": true,
+    "chapter": 5,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Your first workout might feel terrible.",
+    "flat_start": 2595,
+    "start": 142.22,
+    "art": "05-6",
+    "kind": "focus",
+    "title": "The first\nworkout.",
+    "labels": [
+      "UNCOMFORTABLE"
+    ],
+    "cue_phrases": [
+      "feel terrible"
+    ],
+    "cues": [
+      143.18001
+    ],
+    "id": 39,
+    "end": 144.14,
+    "dark": false,
+    "chapter": 5,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "Your first video might be awkward.",
+    "flat_start": 2635,
+    "start": 144.14,
+    "art": "05-7",
+    "kind": "focus",
+    "title": "The first\nvideo.",
+    "labels": [
+      "AWKWARD"
+    ],
+    "cue_phrases": [
+      "be awkward"
+    ],
+    "cues": [
+      145.18001
+    ],
+    "id": 40,
+    "end": 146.06,
+    "dark": false,
+    "chapter": 5,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Your first business idea might fail.",
+    "flat_start": 2670,
+    "start": 146.06,
+    "art": "05-8",
+    "kind": "focus",
+    "title": "The first\nattempt.",
+    "labels": [
+      "IT MIGHT FAIL"
+    ],
+    "cue_phrases": [
+      "might fail"
+    ],
+    "cues": [
+      147.18001
+    ],
+    "id": 41,
+    "end": 148.22,
+    "dark": false,
+    "chapter": 5,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "Your first attempt at learning something might make you realize...",
+    "flat_start": 2707,
+    "start": 148.22,
+    "art": "05-9",
+    "kind": "thought",
+    "title": "More to learn.",
+    "labels": [
+      "REAL PROCESS",
+      "UNCOMFORTABLE"
+    ],
+    "cue_phrases": [
+      "real process",
+      "That's uncomfortable"
+    ],
+    "cues": [
+      155.23499,
+      156.275
+    ],
+    "id": 42,
+    "end": 157.31499,
+    "dark": false,
+    "chapter": 5,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "So your brain gives you an easier option.",
+    "flat_start": 2896,
+    "start": 157.31499,
+    "art": "06-1",
+    "kind": "thought",
+    "title": "Prepare a\nlittle more.",
+    "labels": [
+      "THE EASIER OPTION",
+      "MORE PREPARATION"
+    ],
+    "cue_phrases": [
+      "easier option",
+      "Prepare a little more"
+    ],
+    "cues": [
+      158.435,
+      159.47499
+    ],
+    "id": 43,
+    "end": 160.67499,
+    "dark": false,
+    "chapter": 5,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "Just one more video.",
+    "flat_start": 2961,
+    "start": 160.67499,
+    "art": "06-2",
+    "kind": "feed",
+    "title": "Just one more.",
+    "labels": [
+      "VIDEO",
+      "ARTICLE",
+      "TUTORIAL",
+      "PLAN"
+    ],
+    "cue_phrases": [
+      "one more video",
+      "One more article",
+      "One more tutorial",
+      "One more plan"
+    ],
+    "cues": [
+      160.915,
+      162.03499,
+      163.075,
+      164.355
+    ],
+    "id": 44,
+    "end": 165.47499,
+    "dark": false,
+    "chapter": 5,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "One more week.",
+    "flat_start": 3034,
+    "start": 165.47499,
+    "art": "03-1",
+    "kind": "timeline",
+    "title": "Then you'll\nstart.",
+    "labels": [
+      "ONE MORE WEEK",
+      "THEN START"
+    ],
+    "cue_phrases": [
+      "One more week",
+      "then you'll start"
+    ],
+    "cues": [
+      165.47499,
+      166.435
+    ],
+    "id": 45,
+    "end": 167.27,
+    "dark": false,
+    "chapter": 5,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "But here's the trap.",
+    "flat_start": 3072,
+    "start": 167.27,
+    "art": "06-3",
+    "kind": "stack",
+    "title": "There is\nalways more.",
+    "labels": [
+      "ONE MORE THING",
+      "VIDEO",
+      "BOOK"
+    ],
+    "cue_phrases": [
+      "one more thing to prepare",
+      "another video",
+      "Another book"
+    ],
+    "cues": [
+      169.27,
+      171.43001,
+      172.63
+    ],
+    "id": 46,
+    "end": 173.43001,
+    "dark": false,
+    "chapter": 6,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "Another strategy.",
+    "flat_start": 3184,
+    "start": 173.43001,
+    "art": "06-4",
+    "kind": "feed",
+    "title": "Another solution.",
+    "labels": [
+      "STRATEGY",
+      "TOOL"
+    ],
+    "cue_phrases": [
+      "Another strategy",
+      "Another tool"
+    ],
+    "cues": [
+      173.43001,
+      174.55
+    ],
+    "id": 47,
+    "end": 175.75,
+    "dark": false,
+    "chapter": 6,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Another expert.",
+    "flat_start": 3216,
+    "start": 175.75,
+    "art": "06-5",
+    "kind": "feed",
+    "title": "Someone who\nknows more.",
+    "labels": [
+      "EXPERT",
+      "SYSTEM"
+    ],
+    "cue_phrases": [
+      "Another expert",
+      "productivity system"
+    ],
+    "cues": [
+      175.75,
+      176.95
+    ],
+    "id": 48,
+    "end": 178.47,
+    "dark": false,
+    "chapter": 6,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "Another person who seems to know more than you.",
+    "flat_start": 3261,
+    "start": 178.47,
+    "art": "06-6",
+    "kind": "focus",
+    "title": "Almost ready.\nAgain.",
+    "labels": [
+      "MORE KNOWLEDGE"
+    ],
+    "cue_phrases": [
+      "know more than you"
+    ],
+    "cues": [
+      179.67
+    ],
+    "id": 49,
+    "end": 180.725,
+    "dark": false,
+    "chapter": 6,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "And if you're not careful...",
+    "flat_start": 3309,
+    "start": 180.725,
+    "art": "06-7",
+    "kind": "window",
+    "title": "A room with\nno exit.",
+    "labels": [
+      "NO EXIT",
+      "ALMOST READY"
+    ],
+    "cue_phrases": [
+      "room with no exit",
+      "almost ready"
+    ],
+    "cues": [
+      183.445,
+      186.24501
+    ],
+    "id": 50,
+    "end": 186.965,
+    "dark": false,
+    "chapter": 6,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "But the finish line keeps moving.",
+    "flat_start": 3426,
+    "start": 186.965,
+    "art": "06-8",
+    "kind": "finish",
+    "title": "The finish line\nmoves.",
+    "labels": [
+      "MOVING GOAL"
+    ],
+    "cue_phrases": [
+      "finish line keeps moving"
+    ],
+    "cues": [
+      187.445
+    ],
+    "id": 51,
+    "end": 189.125,
+    "dark": true,
+    "chapter": 6,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "And sometimes... the problem isn't that you don't know enough.",
+    "flat_start": 3460,
+    "start": 189.125,
+    "art": "06-9",
+    "kind": "thought",
+    "title": "Enough knowledge.\nStill no start.",
+    "labels": [
+      "NOT KNOWING ENOUGH?",
+      "A DELAY"
+    ],
+    "cue_phrases": [
+      "don't know enough",
+      "excuse to delay"
+    ],
+    "cues": [
+      190.725,
+      193.685
+    ],
+    "id": 52,
+    "end": 197.63,
+    "dark": false,
+    "chapter": 7,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Because once you start...",
+    "flat_start": 3621,
+    "start": 197.63,
+    "art": "07-1",
+    "kind": "split",
+    "title": "Potential meets\nreality.",
+    "labels": [
+      "POTENTIAL",
+      "I COULD BE GOOD"
+    ],
+    "cue_phrases": [
+      "hide behind potential",
+      "really good at this"
+    ],
+    "cues": [
+      199.79001,
+      204.67
+    ],
+    "id": 53,
+    "end": 205.87001,
+    "dark": true,
+    "chapter": 7,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "After you start...",
+    "flat_start": 3763,
+    "start": 205.87001,
+    "art": "07-2",
+    "kind": "thought",
+    "title": "You get to\nfind out.",
+    "labels": [
+      "FIND OUT"
+    ],
+    "cue_phrases": [
+      "get to find out"
+    ],
+    "cues": [
+      207.31
+    ],
+    "id": 54,
+    "end": 208.405,
+    "dark": false,
+    "chapter": 7,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "And sometimes... we'd rather protect the idea of what we could become...",
+    "flat_start": 3803,
+    "start": 208.405,
+    "art": "07-3",
+    "kind": "split",
+    "title": "Protect the idea.\nRisk the truth.",
+    "labels": [
+      "COULD BECOME",
+      "ACTUALLY ARE"
+    ],
+    "cue_phrases": [
+      "what we could become",
+      "where we actually are"
+    ],
+    "cues": [
+      211.765,
+      214.245
+    ],
+    "id": 55,
+    "end": 215.765,
+    "dark": false,
+    "chapter": 7,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "This is also why perfectionism can be so sneaky.",
+    "flat_start": 3921,
+    "start": 215.765,
+    "art": "07-6",
+    "kind": "thought",
+    "title": "Perfectionism\ncan hide here.",
+    "labels": [
+      "PERFECTIONISM"
+    ],
+    "cue_phrases": [
+      "perfectionism can be so sneaky"
+    ],
+    "cues": [
+      216.885
+    ],
+    "id": 56,
+    "end": 219.605,
+    "dark": false,
+    "chapter": 7,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "People often think perfectionism means wanting everything to be perfect.",
+    "flat_start": 3970,
+    "start": 219.605,
+    "art": "07-3",
+    "kind": "split",
+    "title": "Perfect...\nor never a beginner?",
+    "labels": [
+      "PERFECT",
+      "BEGINNER"
+    ],
+    "cue_phrases": [
+      "everything to be perfect",
+      "be a beginner"
+    ],
+    "cues": [
+      222.405,
+      227.97
+    ],
+    "id": 57,
+    "end": 229.09,
+    "dark": false,
+    "chapter": 7,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "You don't want to make the first bad video.",
+    "flat_start": 4127,
+    "start": 229.09,
+    "art": "07-5",
+    "kind": "feed",
+    "title": "The awkward\nfirst attempt.",
+    "labels": [
+      "BAD VIDEO",
+      "TERRIBLE PARAGRAPH",
+      "AWKWARD ATTEMPT"
+    ],
+    "cue_phrases": [
+      "first bad video",
+      "first terrible paragraph",
+      "first awkward attempt"
+    ],
+    "cues": [
+      229.97,
+      232.20999,
+      234.76999
+    ],
+    "id": 58,
+    "end": 236.45,
+    "dark": false,
+    "chapter": 7,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "You want your first attempt to look like someone else's hundredth.",
+    "flat_start": 4275,
+    "start": 236.45,
+    "art": "07-4",
+    "kind": "split",
+    "title": "Your first.\nTheir hundredth.",
+    "labels": [
+      "YOUR FIRST",
+      "THEIR HUNDREDTH"
+    ],
+    "cue_phrases": [
+      "your first attempt",
+      "else's hundredth"
+    ],
+    "cues": [
+      236.84999,
+      239.275
+    ],
+    "id": 59,
+    "end": 240.635,
+    "dark": true,
+    "chapter": 7,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "So you keep preparing.",
+    "flat_start": 4342,
+    "start": 240.635,
+    "art": "07-7",
+    "kind": "thought",
+    "title": "Progress without\nimperfection.",
+    "labels": [
+      "PREPARING",
+      "WITHOUT IMPERFECTION"
+    ],
+    "cue_phrases": [
+      "keep preparing",
+      "look imperfect"
+    ],
+    "cues": [
+      241.11499,
+      246.235
+    ],
+    "id": 60,
+    "end": 247.515,
+    "dark": false,
+    "chapter": 7,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "But here's something important.",
+    "flat_start": 4463,
+    "start": 247.515,
+    "art": "07-8",
+    "kind": "focus",
+    "title": "Not impressive.\nInstructive.",
+    "labels": [
+      "NOT IMPRESSIVE",
+      "TEACHES YOU"
+    ],
+    "cue_phrases": [
+      "supposed to be impressive",
+      "teach you something"
+    ],
+    "cues": [
+      250.715,
+      253.23001
+    ],
+    "id": 61,
+    "end": 254.19,
+    "dark": false,
+    "chapter": 8,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "You cannot research your way into experience.",
+    "flat_start": 4585,
+    "start": 254.19,
+    "art": "07-9",
+    "kind": "paths",
+    "title": "Experience must\nbe experienced.",
+    "labels": [
+      "RESEARCH",
+      "EXPERIENCE"
+    ],
+    "cue_phrases": [
+      "research your way",
+      "experience something"
+    ],
+    "cues": [
+      254.75,
+      257.47
+    ],
+    "id": 62,
+    "end": 260.43,
+    "dark": true,
+    "chapter": 8,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "You can watch fifty videos about making videos.",
+    "flat_start": 4709,
+    "start": 260.43,
+    "art": "08-1",
+    "kind": "counter",
+    "title": "Fifty videos.\nEventually, one.",
+    "labels": [
+      "50 VIDEOS",
+      "MAKE ONE"
+    ],
+    "cue_phrases": [
+      "fifty videos",
+      "make one"
+    ],
+    "cues": [
+      260.91,
+      264.11002
+    ],
+    "id": 63,
+    "end": 264.59,
+    "dark": false,
+    "chapter": 8,
+    "feature": true,
+    "layout": "left",
+    "counter": 50
+  },
+  {
+    "phrase": "You can read twenty books about discipline.",
+    "flat_start": 4797,
+    "start": 264.59,
+    "art": "08-2",
+    "kind": "counter",
+    "title": "Twenty books.\nThen do it.",
+    "labels": [
+      "20 BOOKS",
+      "DO SOMETHING DIFFICULT"
+    ],
+    "cue_phrases": [
+      "twenty books",
+      "do something difficult"
+    ],
+    "cues": [
+      264.99,
+      268.065
+    ],
+    "id": 64,
+    "end": 270.785,
+    "dark": false,
+    "chapter": 8,
+    "feature": true,
+    "layout": "right",
+    "counter": 20
+  },
+  {
+    "phrase": "You can study every business strategy on the internet.",
+    "flat_start": 4929,
+    "start": 270.785,
+    "art": "08-3",
+    "kind": "paths",
+    "title": "Put it in front\nof someone.",
+    "labels": [
+      "STRATEGY",
+      "TEST IT"
+    ],
+    "cue_phrases": [
+      "business strategy",
+      "another human being"
+    ],
+    "cues": [
+      271.745,
+      275.585
+    ],
+    "id": 65,
+    "end": 278.465,
+    "dark": false,
+    "chapter": 8,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "That's where real learning begins.",
+    "flat_start": 5085,
+    "start": 278.465,
+    "art": "08-4",
+    "kind": "focus",
+    "title": "Reality gives\nyou feedback.",
+    "labels": [
+      "REAL LEARNING",
+      "FEEDBACK"
+    ],
+    "cue_phrases": [
+      "real learning begins",
+      "reality gives you feedback"
+    ],
+    "cues": [
+      278.865,
+      282.5
+    ],
+    "id": 66,
+    "end": 284.18,
+    "dark": true,
+    "chapter": 8,
+    "feature": true,
+    "layout": "right"
+  },
+  {
+    "phrase": "And this is why action can feel so uncomfortable.",
+    "flat_start": 5187,
+    "start": 284.18,
+    "art": "08-5",
+    "kind": "thought",
+    "title": "Action gives\nyou answers.",
+    "labels": [
+      "ACTION",
+      "UNCERTAINTY"
+    ],
+    "cue_phrases": [
+      "action can feel so uncomfortable",
+      "destroys uncertainty"
+    ],
+    "cues": [
+      284.82,
+      288.34
+    ],
+    "id": 67,
+    "end": 290.18,
+    "dark": false,
+    "chapter": 8,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "Before you start...",
+    "flat_start": 5266,
+    "start": 290.18,
+    "art": "08-9",
+    "kind": "split",
+    "title": "Possibilities.\nThen answers.",
+    "labels": [
+      "POSSIBILITIES",
+      "ANSWERS"
+    ],
+    "cue_phrases": [
+      "a thousand possibilities",
+      "you get answers"
+    ],
+    "cues": [
+      291.78,
+      294.72498
+    ],
+    "id": 68,
+    "end": 296.245,
+    "dark": false,
+    "chapter": 8,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "Maybe the idea works.",
+    "flat_start": 5358,
+    "start": 296.245,
+    "art": "08-6",
+    "kind": "split",
+    "title": "Maybe it works.\nMaybe it doesn't.",
+    "labels": [
+      "WORKS",
+      "DOESN'T"
+    ],
+    "cue_phrases": [
+      "idea works",
+      "Maybe it doesn't"
+    ],
+    "cues": [
+      296.72498,
+      297.925
+    ],
+    "id": 69,
+    "end": 299.04498,
+    "dark": false,
+    "chapter": 8,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Maybe you're good at it.",
+    "flat_start": 5398,
+    "start": 299.04498,
+    "art": "07-2",
+    "kind": "split",
+    "title": "Now you\nfind out.",
+    "labels": [
+      "GOOD AT IT",
+      "NOT YET"
+    ],
+    "cue_phrases": [
+      "good at it",
+      "terrible at it"
+    ],
+    "cues": [
+      299.525,
+      300.805
+    ],
+    "id": 70,
+    "end": 301.845,
+    "dark": false,
+    "chapter": 8,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "Maybe you love it.",
+    "flat_start": 5452,
+    "start": 301.845,
+    "art": "08-5",
+    "kind": "split",
+    "title": "Love it?\nHate it?",
+    "labels": [
+      "LOVE",
+      "HATE"
+    ],
+    "cue_phrases": [
+      "love it",
+      "hate it"
+    ],
+    "cues": [
+      302.245,
+      303.28497
+    ],
+    "id": 71,
+    "end": 304.00497,
+    "dark": false,
+    "chapter": 8,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "But at least now...",
+    "flat_start": 5490,
+    "start": 304.00497,
+    "art": "08-7",
+    "kind": "focus",
+    "title": "At least\nyou know.",
+    "labels": [
+      "NOW YOU KNOW",
+      "VALUABLE"
+    ],
+    "cue_phrases": [
+      "you know",
+      "incredibly valuable"
+    ],
+    "cues": [
+      305.685,
+      307.60498
+    ],
+    "id": 72,
+    "end": 309.0,
+    "dark": false,
+    "chapter": 8,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "Because you can improve something that exists.",
+    "flat_start": 5556,
+    "start": 309.0,
+    "art": "08-8",
+    "kind": "split",
+    "title": "Existing work\ncan improve.",
+    "labels": [
+      "EXISTS",
+      "ONLY IN YOUR HEAD"
+    ],
+    "cue_phrases": [
+      "something that exists",
+      "inside your head"
+    ],
+    "cues": [
+      310.28,
+      314.12
+    ],
+    "id": 73,
+    "end": 315.4,
+    "dark": true,
+    "chapter": 8,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Think about it.",
+    "flat_start": 5665,
+    "start": 315.4,
+    "art": "07-8",
+    "kind": "focus",
+    "title": "A rough draft\ncan improve.",
+    "labels": [
+      "FIRST DRAFT"
+    ],
+    "cue_phrases": [
+      "first draft can be improved"
+    ],
+    "cues": [
+      316.92
+    ],
+    "id": 74,
+    "end": 320.92,
+    "dark": false,
+    "chapter": 8,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "A bad workout can teach you what to change next time.",
+    "flat_start": 5751,
+    "start": 320.92,
+    "art": "08-2",
+    "kind": "split",
+    "title": "A workout.\nOr no workout.",
+    "labels": [
+      "FEEDBACK",
+      "NO FEEDBACK"
+    ],
+    "cue_phrases": [
+      "change next time",
+      "No workout"
+    ],
+    "cues": [
+      322.92,
+      324.095
+    ],
+    "id": 75,
+    "end": 326.33502,
+    "dark": false,
+    "chapter": 8,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "A rough video can become a better video.",
+    "flat_start": 5837,
+    "start": 326.33502,
+    "art": "08-8",
+    "kind": "split",
+    "title": "Rough can\nbecome better.",
+    "labels": [
+      "ROUGH VIDEO",
+      "BETTER VIDEO"
+    ],
+    "cue_phrases": [
+      "A rough video",
+      "better video"
+    ],
+    "cues": [
+      326.33502,
+      327.93503
+    ],
+    "id": 76,
+    "end": 329.05502,
+    "dark": false,
+    "chapter": 8,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "A perfect idea sitting inside your notes...",
+    "flat_start": 5878,
+    "start": 329.05502,
+    "art": "08-9",
+    "kind": "thought",
+    "title": "A perfect idea\nis still an idea.",
+    "labels": [
+      "INSIDE YOUR NOTES"
+    ],
+    "cue_phrases": [
+      "inside your notes"
+    ],
+    "cues": [
+      330.575
+    ],
+    "id": 77,
+    "end": 332.49503,
+    "dark": false,
+    "chapter": 8,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "So maybe the goal isn't to eliminate preparation.",
+    "flat_start": 5930,
+    "start": 332.49503,
+    "art": "09-1",
+    "kind": "focus",
+    "title": "Preparation\nis useful.",
+    "labels": [
+      "PREPARATION",
+      "RESEARCH",
+      "PLANNING"
+    ],
+    "cue_phrases": [
+      "Preparation is useful",
+      "Research is useful",
+      "Planning is useful"
+    ],
+    "cues": [
+      335.535,
+      337.53,
+      338.89
+    ],
+    "id": 78,
+    "end": 340.25,
+    "dark": false,
+    "chapter": 9,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "The problem begins when preparation has no connection to action.",
+    "flat_start": 6043,
+    "start": 340.25,
+    "art": "03-8",
+    "kind": "paths",
+    "title": "Connect it\nto action.",
+    "labels": [
+      "PREPARATION",
+      "ACTION"
+    ],
+    "cue_phrases": [
+      "preparation has no connection",
+      "to action"
+    ],
+    "cues": [
+      341.45,
+      342.89
+    ],
+    "id": 79,
+    "end": 343.85,
+    "dark": true,
+    "chapter": 9,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "If every hour of research leads to another hour of research...",
+    "flat_start": 6108,
+    "start": 343.85,
+    "art": "04-12",
+    "kind": "feed",
+    "title": "Research only\ncreates research.",
+    "labels": [
+      "MORE RESEARCH",
+      "SOMETHING IS WRONG"
+    ],
+    "cue_phrases": [
+      "another hour of research",
+      "something is wrong"
+    ],
+    "cues": [
+      345.93,
+      347.61002
+    ],
+    "id": 80,
+    "end": 348.73,
+    "dark": false,
+    "chapter": 9,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "If every new plan creates another new plan...",
+    "flat_start": 6191,
+    "start": 348.73,
+    "art": "03-4",
+    "kind": "stack",
+    "title": "Plans create\nmore plans.",
+    "labels": [
+      "ANOTHER PLAN",
+      "NO PRACTICE"
+    ],
+    "cue_phrases": [
+      "another new plan",
+      "never practice it"
+    ],
+    "cues": [
+      350.09,
+      354.44498
+    ],
+    "id": 81,
+    "end": 356.76498,
+    "dark": false,
+    "chapter": 9,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "So here's a simple rule.",
+    "flat_start": 6342,
+    "start": 356.76498,
+    "art": "09-2",
+    "kind": "loop",
+    "title": "Prepare.\nThen make it real.",
+    "labels": [
+      "PREPARE",
+      "CREATE",
+      "TEST",
+      "FIRST VERSION"
+    ],
+    "cue_phrases": [
+      "prepare for",
+      "create something",
+      "Test something",
+      "Make the first version"
+    ],
+    "cues": [
+      360.04498,
+      361.16498,
+      363.485,
+      364.525
+    ],
+    "id": 82,
+    "end": 365.79,
+    "dark": false,
+    "chapter": 9,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "If you're researching a business idea...",
+    "flat_start": 6485,
+    "start": 365.79,
+    "art": "09-3",
+    "kind": "focus",
+    "title": "Build a\ntiny version.",
+    "labels": [
+      "TINY VERSION"
+    ],
+    "cue_phrases": [
+      "build a tiny version"
+    ],
+    "cues": [
+      368.03
+    ],
+    "id": 83,
+    "end": 369.55002,
+    "dark": false,
+    "chapter": 9,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "If you're learning to write...",
+    "flat_start": 6548,
+    "start": 369.55002,
+    "art": "09-4",
+    "kind": "focus",
+    "title": "Write something.",
+    "labels": [
+      "WRITE"
+    ],
+    "cue_phrases": [
+      "write something"
+    ],
+    "cues": [
+      370.83002
+    ],
+    "id": 84,
+    "end": 371.79,
+    "dark": false,
+    "chapter": 9,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "If you're learning to make videos...",
+    "flat_start": 6596,
+    "start": 371.79,
+    "art": "09-5",
+    "kind": "focus",
+    "title": "Make a video.",
+    "labels": [
+      "MAKE"
+    ],
+    "cue_phrases": [
+      "make a video"
+    ],
+    "cues": [
+      373.79
+    ],
+    "id": 85,
+    "end": 374.91,
+    "dark": false,
+    "chapter": 9,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "If you're studying a skill...",
+    "flat_start": 6647,
+    "start": 374.91,
+    "art": "09-6",
+    "kind": "focus",
+    "title": "Practice\nthe skill.",
+    "labels": [
+      "PRACTICE"
+    ],
+    "cue_phrases": [
+      "practice the skill"
+    ],
+    "cues": [
+      376.51
+    ],
+    "id": 86,
+    "end": 377.79,
+    "dark": false,
+    "chapter": 9,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "Don't wait until you're ready.",
+    "flat_start": 6697,
+    "start": 377.79,
+    "art": "09-7",
+    "kind": "paths",
+    "title": "Act to learn\nwhat comes next.",
+    "labels": [
+      "DON'T WAIT",
+      "ACT",
+      "LEARN WHAT'S NEXT"
+    ],
+    "cue_phrases": [
+      "Don't wait",
+      "Use action",
+      "prepare for next"
+    ],
+    "cues": [
+      377.79,
+      379.235,
+      381.635
+    ],
+    "id": 87,
+    "end": 383.075,
+    "dark": false,
+    "chapter": 9,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Because that's another mistake we make.",
+    "flat_start": 6789,
+    "start": 383.075,
+    "art": "09-8",
+    "kind": "thought",
+    "title": "You don't need\nthe whole map.",
+    "labels": [
+      "THE ENTIRE PATH?",
+      "NOT YET"
+    ],
+    "cue_phrases": [
+      "entire path",
+      "you don't"
+    ],
+    "cues": [
+      386.835,
+      390.595
+    ],
+    "id": 88,
+    "end": 391.315,
+    "dark": false,
+    "chapter": 9,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "You only need enough information to take the next step.",
+    "flat_start": 6938,
+    "start": 391.315,
+    "art": "09-9",
+    "kind": "loop",
+    "title": "The next step\nteaches you.",
+    "labels": [
+      "STEP",
+      "LEARN",
+      "ADAPT",
+      "REPEAT"
+    ],
+    "cue_phrases": [
+      "take the next step",
+      "teaches you something",
+      "changes your approach",
+      "another step"
+    ],
+    "cues": [
+      393.395,
+      395.35,
+      397.67,
+      399.75
+    ],
+    "id": 89,
+    "end": 400.63,
+    "dark": false,
+    "chapter": 9,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "And slowly...",
+    "flat_start": 7104,
+    "start": 400.63,
+    "art": "09-9",
+    "kind": "paths",
+    "title": "The path\nbecomes visible.",
+    "labels": [
+      "NEXT MOVE"
+    ],
+    "cue_phrases": [
+      "You need the next move"
+    ],
+    "cues": [
+      405.19
+    ],
+    "id": 90,
+    "end": 406.87,
+    "dark": false,
+    "chapter": 9,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "And there's a question that can expose this problem almost instantly.",
+    "flat_start": 7199,
+    "start": 406.87,
+    "art": "10-1",
+    "kind": "thought",
+    "title": "What exactly\nam I waiting for?",
+    "labels": [
+      "WHAT AM I WAITING FOR?"
+    ],
+    "cue_phrases": [
+      "What exactly am I waiting for"
+    ],
+    "cues": [
+      413.135
+    ],
+    "id": 91,
+    "end": 414.975,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "Not emotionally.",
+    "flat_start": 7348,
+    "start": 414.975,
+    "art": "10-1",
+    "kind": "focus",
+    "title": "Literally.\nWhat is it?",
+    "labels": [
+      "LITERALLY",
+      "WHAT ARE YOU WAITING FOR?"
+    ],
+    "cue_phrases": [
+      "Literally",
+      "What are you waiting for"
+    ],
+    "cues": [
+      416.255,
+      417.135
+    ],
+    "id": 92,
+    "end": 418.495,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "More information?",
+    "flat_start": 7402,
+    "start": 418.495,
+    "art": "10-1",
+    "kind": "feed",
+    "title": "What are you\nwaiting for?",
+    "labels": [
+      "INFORMATION",
+      "CONFIDENCE",
+      "PLAN",
+      "MONEY"
+    ],
+    "cue_phrases": [
+      "More information",
+      "More confidence",
+      "A better plan",
+      "More money"
+    ],
+    "cues": [
+      418.495,
+      419.775,
+      420.975,
+      422.17502
+    ],
+    "id": 93,
+    "end": 423.02,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "The perfect equipment?",
+    "flat_start": 7464,
+    "start": 423.02,
+    "art": "10-2",
+    "kind": "feed",
+    "title": "Will it make\nyou ready?",
+    "labels": [
+      "EQUIPMENT",
+      "MOTIVATION",
+      "TIME"
+    ],
+    "cue_phrases": [
+      "perfect equipment",
+      "More motivation",
+      "A better time"
+    ],
+    "cues": [
+      423.26,
+      424.46,
+      425.66
+    ],
+    "id": 94,
+    "end": 426.62,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "And then ask yourself...",
+    "flat_start": 7519,
+    "start": 426.62,
+    "art": "10-3",
+    "kind": "thought",
+    "title": "Do I actually\nneed this?",
+    "labels": [
+      "NEED THIS?",
+      "UNCOMFORTABLE STARTING?"
+    ],
+    "cue_phrases": [
+      "Do I actually need this",
+      "uncomfortable with starting"
+    ],
+    "cues": [
+      427.98,
+      430.54
+    ],
+    "id": 95,
+    "end": 431.98,
+    "dark": true,
+    "chapter": 10,
+    "feature": true,
+    "layout": "left"
+  },
+  {
+    "phrase": "Because sometimes... the thing you're waiting for isn't something you need.",
+    "flat_start": 7616,
+    "start": 431.98,
+    "art": "05-1",
+    "kind": "split",
+    "title": "Need it...\nor want safety?",
+    "labels": [
+      "NEED",
+      "SAFE"
+    ],
+    "cue_phrases": [
+      "something you need",
+      "feel safe"
+    ],
+    "cues": [
+      434.46,
+      437.23502
+    ],
+    "id": 96,
+    "end": 437.95502,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "And here's the uncomfortable part.",
+    "flat_start": 7741,
+    "start": 437.95502,
+    "art": "07-5",
+    "kind": "thought",
+    "title": "Ready may\nnever arrive.",
+    "labels": [
+      "COMPLETELY READY",
+      "NOBODY DOES"
+    ],
+    "cue_phrases": [
+      "completely ready",
+      "Nobody does"
+    ],
+    "cues": [
+      440.755,
+      442.035
+    ],
+    "id": 97,
+    "end": 443.23502,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "The people who look confident now...",
+    "flat_start": 7826,
+    "start": 443.23502,
+    "art": "05-7",
+    "kind": "timeline",
+    "title": "They also\nhad a beginning.",
+    "labels": [
+      "A BEGINNING",
+      "MISTAKES",
+      "AWKWARD"
+    ],
+    "cue_phrases": [
+      "a beginning",
+      "made mistakes",
+      "looked awkward"
+    ],
+    "cues": [
+      445.875,
+      448.915,
+      450.75
+    ],
+    "id": 98,
+    "end": 452.11,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "They also had moments where they questioned themselves.",
+    "flat_start": 7980,
+    "start": 452.11,
+    "art": "07-2",
+    "kind": "focus",
+    "title": "Allow yourself\nto begin.",
+    "labels": [
+      "QUESTIONED THEMSELVES",
+      "BEGINNERS"
+    ],
+    "cue_phrases": [
+      "questioned themselves",
+      "be beginners"
+    ],
+    "cues": [
+      453.55,
+      457.79
+    ],
+    "id": 99,
+    "end": 458.66998,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "So maybe... you don't need another tutorial.",
+    "flat_start": 8109,
+    "start": 458.66998,
+    "art": "06-2",
+    "kind": "feed",
+    "title": "Maybe no\nmore tutorials.",
+    "labels": [
+      "TUTORIAL",
+      "APP",
+      "NOTEBOOK",
+      "PLAN"
+    ],
+    "cue_phrases": [
+      "another tutorial",
+      "productivity app",
+      "another notebook",
+      "another perfect plan"
+    ],
+    "cues": [
+      460.19,
+      462.43,
+      464.11,
+      466.195
+    ],
+    "id": 100,
+    "end": 468.915,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Maybe... you need to close the tab.",
+    "flat_start": 8283,
+    "start": 468.915,
+    "art": "10-4",
+    "kind": "switch",
+    "title": "Close the tab.",
+    "labels": [
+      "CLOSE THE TAB",
+      "PHONE DOWN"
+    ],
+    "cue_phrases": [
+      "close the tab",
+      "Put the phone down"
+    ],
+    "cues": [
+      469.795,
+      470.915
+    ],
+    "id": 101,
+    "end": 472.195,
+    "dark": true,
+    "chapter": 10,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Stop searching.",
+    "flat_start": 8339,
+    "start": 472.195,
+    "art": "10-5",
+    "kind": "focus",
+    "title": "An imperfect\nattempt.",
+    "labels": [
+      "STOP SEARCHING",
+      "FIRST ATTEMPT"
+    ],
+    "cue_phrases": [
+      "Stop searching",
+      "first imperfect attempt"
+    ],
+    "cues": [
+      472.195,
+      473.95502
+    ],
+    "id": 102,
+    "end": 475.555,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "Because there is something preparation can never give you.",
+    "flat_start": 8393,
+    "start": 475.555,
+    "art": "10-5",
+    "kind": "focus",
+    "title": "Proof.",
+    "labels": [
+      "PROOF"
+    ],
+    "cue_phrases": [
+      "Proof"
+    ],
+    "cues": [
+      478.835
+    ],
+    "id": 103,
+    "end": 479.62997,
+    "dark": true,
+    "chapter": 10,
+    "feature": true,
+    "layout": "left"
+  },
+  {
+    "phrase": "You can tell yourself you're disciplined.",
+    "flat_start": 8459,
+    "start": 479.62997,
+    "art": "10-6",
+    "kind": "stack",
+    "title": "Action gives\nyou proof.",
+    "labels": [
+      "DISCIPLINED",
+      "SERIOUS",
+      "BECOMING"
+    ],
+    "cue_phrases": [
+      "disciplined",
+      "serious",
+      "a different person"
+    ],
+    "cues": [
+      480.90997,
+      484.59,
+      488.27
+    ],
+    "id": 104,
+    "end": 491.31,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "And those small pieces of proof...",
+    "flat_start": 8673,
+    "start": 491.31,
+    "art": "10-6",
+    "kind": "stack",
+    "title": "Small pieces\nof evidence.",
+    "labels": [
+      "STUDIED",
+      "SHOWED UP",
+      "FINISHED",
+      "MADE SOMETHING"
+    ],
+    "cue_phrases": [
+      "You studied",
+      "showed up",
+      "finished something",
+      "made something"
+    ],
+    "cues": [
+      495.275,
+      497.67502,
+      498.475,
+      499.515
+    ],
+    "id": 105,
+    "end": 500.555,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "You kept a promise to yourself.",
+    "flat_start": 8846,
+    "start": 500.555,
+    "art": "10-5",
+    "kind": "focus",
+    "title": "Kept a promise\nto yourself.",
+    "labels": [
+      "KEPT A PROMISE"
+    ],
+    "cue_phrases": [
+      "kept a promise"
+    ],
+    "cues": [
+      500.715
+    ],
+    "id": 106,
+    "end": 502.315,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "And eventually... your brain starts learning:",
+    "flat_start": 8878,
+    "start": 502.315,
+    "art": "07-2",
+    "kind": "thought",
+    "title": "I do what\nI say I'll do.",
+    "labels": [
+      "I DO WHAT I SAY"
+    ],
+    "cue_phrases": [
+      "I actually do what I say"
+    ],
+    "cues": [
+      504.635
+    ],
+    "id": 107,
+    "end": 507.355,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "That's how identity changes.",
+    "flat_start": 8968,
+    "start": 507.355,
+    "art": "10-6",
+    "kind": "stack",
+    "title": "Identity\nfollows evidence.",
+    "labels": [
+      "EVIDENCE",
+      "SMALL",
+      "REPEATED",
+      "DAY AFTER DAY"
+    ],
+    "cue_phrases": [
+      "through evidence",
+      "Small evidence",
+      "Repeated evidence",
+      "Day after day"
+    ],
+    "cues": [
+      511.16,
+      512.36,
+      513.4,
+      514.76
+    ],
+    "id": 108,
+    "end": 515.88,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "So the next time you find yourself saying...",
+    "flat_start": 9100,
+    "start": 515.88,
+    "art": "03-7",
+    "kind": "thought",
+    "title": "Preparing...\nor hiding?",
+    "labels": [
+      "PREPARE MORE",
+      "PAUSE",
+      "PREPARING?",
+      "HIDING?"
+    ],
+    "cue_phrases": [
+      "prepare a little more",
+      "pause",
+      "Am I preparing",
+      "or am I hiding"
+    ],
+    "cues": [
+      518.84,
+      519.96,
+      522.60504,
+      523.80505
+    ],
+    "id": 109,
+    "end": 525.405,
+    "dark": true,
+    "chapter": 10,
+    "feature": true,
+    "layout": "right"
+  },
+  {
+    "phrase": "Maybe the answer will be uncomfortable.",
+    "flat_start": 9250,
+    "start": 525.405,
+    "art": "05-5",
+    "kind": "focus",
+    "title": "The edge\nof preparation.",
+    "labels": [
+      "UNCOMFORTABLE",
+      "THE EDGE"
+    ],
+    "cue_phrases": [
+      "answer will be uncomfortable",
+      "the edge"
+    ],
+    "cues": [
+      525.80505,
+      530.92505
+    ],
+    "id": 110,
+    "end": 533.565,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "And beyond that edge...",
+    "flat_start": 9404,
+    "start": 533.565,
+    "art": "10-3",
+    "kind": "focus",
+    "title": "Action.",
+    "labels": [
+      "ACTION"
+    ],
+    "cue_phrases": [
+      "Action"
+    ],
+    "cues": [
+      536.27
+    ],
+    "id": 111,
+    "end": 537.07,
+    "dark": true,
+    "chapter": 10,
+    "feature": true,
+    "layout": "left"
+  },
+  {
+    "phrase": "You don't need to start perfectly.",
+    "flat_start": 9465,
+    "start": 537.07,
+    "art": "07-8",
+    "kind": "stack",
+    "title": "You don't need\nperfect.",
+    "labels": [
+      "PERFECT",
+      "EVERYTHING",
+      "STRATEGY",
+      "CONFIDENCE"
+    ],
+    "cue_phrases": [
+      "start perfectly",
+      "know everything",
+      "perfect strategy",
+      "feel confident"
+    ],
+    "cues": [
+      537.71,
+      539.07,
+      540.27,
+      541.79
+    ],
+    "id": 112,
+    "end": 542.99,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "You don't even need to believe you're going to succeed.",
+    "flat_start": 9606,
+    "start": 542.99,
+    "art": "09-2",
+    "kind": "thought",
+    "title": "Willing to make\nthe first attempt.",
+    "labels": [
+      "WILLING",
+      "FIRST ATTEMPT"
+    ],
+    "cue_phrases": [
+      "be willing",
+      "first attempt"
+    ],
+    "cues": [
+      546.19,
+      547.47003
+    ],
+    "id": 113,
+    "end": 548.57495,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Because eventually...",
+    "flat_start": 9720,
+    "start": 548.57495,
+    "art": "09-9",
+    "kind": "paths",
+    "title": "Starting becomes\nwhat matters.",
+    "labels": [
+      "PREPARATION",
+      "STARTING"
+    ],
+    "cue_phrases": [
+      "preparation stops being useful",
+      "starting becomes"
+    ],
+    "cues": [
+      550.815,
+      553.055
+    ],
+    "id": 114,
+    "end": 555.535,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "So if there's something you've been preparing for...",
+    "flat_start": 9852,
+    "start": 555.535,
+    "art": "03-1",
+    "kind": "timeline",
+    "title": "Weeks.\nMonths. Years.",
+    "labels": [
+      "WEEKS",
+      "MONTHS",
+      "YEARS"
+    ],
+    "cue_phrases": [
+      "for weeks",
+      "or months",
+      "even years"
+    ],
+    "cues": [
+      557.855,
+      559.375,
+      561.055
+    ],
+    "id": 115,
+    "end": 562.02997,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Don't make another plan tonight.",
+    "flat_start": 9954,
+    "start": 562.02997,
+    "art": "10-4",
+    "kind": "switch",
+    "title": "No more\npreparation tonight.",
+    "labels": [
+      "NO PLAN",
+      "NO VIDEO",
+      "NO SHORTCUT"
+    ],
+    "cue_phrases": [
+      "another plan tonight",
+      "another video",
+      "another shortcut"
+    ],
+    "cues": [
+      562.51,
+      564.11,
+      565.87
+    ],
+    "id": 116,
+    "end": 566.99,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Take one small action.",
+    "flat_start": 10052,
+    "start": 566.99,
+    "art": "10-7",
+    "kind": "feed",
+    "title": "One small\naction.",
+    "labels": [
+      "SEND THE MESSAGE",
+      "WRITE THE PAGE",
+      "MAKE THE VIDEO"
+    ],
+    "cue_phrases": [
+      "Send the message",
+      "Write the first page",
+      "Make the first video"
+    ],
+    "cues": [
+      568.27,
+      569.15,
+      570.19
+    ],
+    "id": 117,
+    "end": 571.71,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "left"
+  },
+  {
+    "phrase": "Do the first workout.",
+    "flat_start": 10137,
+    "start": 571.71,
+    "art": "08-2",
+    "kind": "paths",
+    "title": "Take the\nfirst step.",
+    "labels": [
+      "WORKOUT",
+      "OPEN THE PROJECT",
+      "FIRST STEP"
+    ],
+    "cue_phrases": [
+      "first workout",
+      "Open the project",
+      "Take the first step"
+    ],
+    "cues": [
+      572.02997,
+      572.75,
+      573.55
+    ],
+    "id": 118,
+    "end": 574.425,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Make it real.",
+    "flat_start": 10198,
+    "start": 574.425,
+    "art": "10-8",
+    "kind": "window",
+    "title": "Studying\nthe water.",
+    "labels": [
+      "MAKE IT REAL",
+      "STUDYING THE WATER"
+    ],
+    "cue_phrases": [
+      "Make it real",
+      "studying the water"
+    ],
+    "cues": [
+      574.425,
+      576.58496
+    ],
+    "id": 119,
+    "end": 577.785,
+    "dark": true,
+    "chapter": 10,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "At some point...",
+    "flat_start": 10282,
+    "start": 577.785,
+    "art": "10-9",
+    "kind": "paths",
+    "title": "Get in.",
+    "labels": [
+      "GET IN"
+    ],
+    "cue_phrases": [
+      "get in"
+    ],
+    "cues": [
+      578.825
+    ],
+    "id": 120,
+    "end": 579.46497,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "And maybe that's what you've been missing.",
+    "flat_start": 10319,
+    "start": 579.46497,
+    "art": "10-9",
+    "kind": "focus",
+    "title": "Just a\nbeginning.",
+    "labels": [
+      "NOT MORE PREPARATION",
+      "NOT MORE INFORMATION",
+      "NOT MORE MOTIVATION",
+      "A BEGINNING"
+    ],
+    "cue_phrases": [
+      "Not more preparation",
+      "Not more information",
+      "Not more motivation",
+      "a beginning"
+    ],
+    "cues": [
+      581.305,
+      582.665,
+      584.02496,
+      586.02496
+    ],
+    "id": 121,
+    "end": 586.985,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "right"
+  },
+  {
+    "phrase": "Think deeper.",
+    "flat_start": 10448,
+    "start": 586.985,
+    "art": "10-5",
+    "kind": "focus",
+    "title": "Why We Become.",
+    "labels": [
+      "THINK DEEPER",
+      "LIVE BETTER",
+      "BECOME MORE"
+    ],
+    "cue_phrases": [
+      "Think deeper",
+      "Live better",
+      "Become more"
+    ],
+    "cues": [
+      586.985,
+      588.02496,
+      588.825
+    ],
+    "id": 122,
+    "end": 590.8716,
+    "dark": false,
+    "chapter": 10,
+    "feature": false,
+    "layout": "left"
+  }
+]
