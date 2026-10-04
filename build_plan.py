@@ -223,7 +223,7 @@ for ids in groups:
  if len(' '.join(tokens[i]['text'] for i in ids))>33:
   break_at=max(1,len(ids)//2)
  for q,active in enumerate(ids):
-  a=tokens[active]['start'];b=tokens[ids[q+1]]['start'] if q+1<len(ids) else min(duration,tokens[active]['end']+.12)
+  a=tokens[active]['start'];b=tokens[ids[q+1]]['start'] if q+1<len(ids) else min(duration,tokens[active]['end']+.12, tokens[active+1]['start'] if active+1<len(tokens) else duration)
   if b<=a:b=a+.02
   parts=[]
   for j,i in enumerate(ids):
